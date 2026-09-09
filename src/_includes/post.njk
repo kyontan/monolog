@@ -9,7 +9,7 @@ layout: base.njk
     {{ chips(categories, post_tags) }}
     <div class="linebreak"></div>
     <div class="entry-content">
-      {{ content | safe }}
+      {{ content | moreanchor(slug) | oembed | safe }}
       {% set absurl = (site.url + page.url) | urlencode %}
       {% set abstitle = title | urlencode %}
       <div class="scriptlesssocialsharing">

@@ -1,5 +1,6 @@
 const { renderPT } = require("./src/_includes/pt.js");
 const { slugify } = require("./src/_includes/slugify.js");
+const { oembed } = require("./src/_includes/oembed.js");
 
 function jst(iso, withTime) {
   const dt = new Date(iso);
@@ -68,15 +69,26 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("wpdate", (iso, dateOnly) =>
     iso ? jst(iso, !dateOnly) : "",
   );
+  // Provider embeds (single pages only).
+  eleventyConfig.addFilter("oembed", (html) => oembed(html));
   // WP the_content('read more »') on list pages: cut at the more anchor.
+  // New Decap posts use <!--more-->; normalize it to the same span first.
   eleventyConfig.addFilter("more", (html, url, slug) => {
-    const parts = String(html || "").split(`<span id="more-${slug}"></span>`);
+    const normalized = String(html || "").replace(
+      /<!--more-->/g,
+      `<span id="more-${slug}"></span>`,
+    );
+    const parts = normalized.split(`<span id="more-${slug}"></span>`);
     if (parts.length < 2) return html;
     return (
       parts[0] +
       `<p><a href="${url}#more-${slug}" class="more-link">read more <span class="meta-nav">»</span></a></p>`
     );
   });
+  // Single pages: turn <!--more--> into the jump anchor (old posts already have it).
+  eleventyConfig.addFilter("moreanchor", (html, slug) =>
+    String(html || "").replace(/<!--more-->/g, `<span id="more-${slug}"></span>`),
+  );
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
   eleventyConfig.addPassthroughCopy({ "static/admin": "admin" });
   eleventyConfig.addPassthroughCopy("src/CNAME");
