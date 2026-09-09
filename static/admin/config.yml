@@ -41,15 +41,6 @@ collections:
         widget: "list"
         field: { label: "Tag", name: "tag", widget: "taxlabel", options_source: "tags" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "About"
-        name: "about"
-        file: "src/pages/about.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
   - name: "taxonomies"
     label: "Taxonomies"
     files:
