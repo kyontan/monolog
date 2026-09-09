@@ -1,0 +1,34 @@
+# Keep src/taxonomies.yml (Decap candidates) in sync with post frontmatter.
+name: Sync taxonomies
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/posts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    # Avoid loops from our own sync commits.
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: "3.13"
+      - run: python3 scripts/gen-taxonomies.py
+      - run: |
+          if git diff --quiet -- src/taxonomies.yml; then
+            echo "no change"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/taxonomies.yml
+            git commit -m "Sync taxonomies.yml from posts [skip ci]"
+            git push
+          fi

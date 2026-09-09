@@ -15,10 +15,10 @@ def frontmatter_lists(path):
     text = path.read_text(encoding="utf-8")
     m = re.match(r"---\n(.*?)\n---\n", text, re.S)
     if not m:
-        return [], []
+        return [], [], [], []
     fm = m.group(1)
     out = {}
-    for key in ("categories", "post_tags"):
+    for key in ("categories", "post_tags", "new_categories", "new_tags"):
         items = []
         in_list = False
         for line in fm.splitlines():
@@ -33,7 +33,7 @@ def frontmatter_lists(path):
                 if line.strip() and not line.startswith(" "):
                     break
         out[key] = items
-    return out["categories"], out["post_tags"]
+    return out["categories"], out["post_tags"], out["new_categories"], out["new_tags"]
 
 
 def read_existing():
@@ -54,9 +54,11 @@ def read_existing():
 existing = read_existing()
 cats, tags = set(existing["categories"]), set(existing["tags"])
 for md in (ROOT / "src" / "posts").glob("*.md"):
-    c, t = frontmatter_lists(md)
+    c, t, nc, nt = frontmatter_lists(md)
     cats.update(c)
     tags.update(t)
+    cats.update(nc)
+    tags.update(nt)
 TAX.write_text(
     "categories:\n"
     + "".join(f'  - "{c}"\n' for c in sorted(cats))
