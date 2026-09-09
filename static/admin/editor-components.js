@@ -1,5 +1,6 @@
-/* Decap editor component: one-click <!--more--> (read more split) insert.
- * Appears in the markdown editor toolbar. Preview shows a divider label.
+/* Decap editor components: one-click inserts for theme idioms.
+ * - more: <!--more--> read-more split (list truncation + jump anchor)
+ * - hr: --- horizontal rule
  */
 (function () {
   function register() {
@@ -17,6 +18,21 @@
         },
         toPreview: function () {
           return "<hr><p>続きを読む：ここから下は一覧に出ません</p><hr>";
+        },
+      });
+      window.CMS.registerEditorComponent({
+        id: "hr",
+        label: "水平線",
+        fields: [],
+        pattern: /^---$/m,
+        fromBlock: function () {
+          return {};
+        },
+        toBlock: function () {
+          return "---";
+        },
+        toPreview: function () {
+          return "<hr>";
         },
       });
     } else {
