@@ -7,3 +7,4 @@ up/
 .env
 .env.*
 .DS_Store
+.opencode/
