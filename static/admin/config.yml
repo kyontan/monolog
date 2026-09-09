@@ -4,7 +4,7 @@
 #     converted articles reference absolute R2 URLs. Align when ready.
 backend:
   name: github
-  base_url: https://YOUR-PROXY.workers.dev # TODO: decap-proxy URL
+  base_url: https://monolog-decap-proxy.monora.workers.dev
   auth_endpoint: /auth
   repo: kyontan/monolog
   branch: main
