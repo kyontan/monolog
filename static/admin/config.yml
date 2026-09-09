@@ -11,6 +11,12 @@ backend:
 
 # Prevent Decap from publishing directly; use editorial workflow PRs.
 publish_mode: editorial_workflow
+# Images upload to R2 via monolog-uploader (see /uploader, static/admin/r2-library.js).
+media_library:
+  name: r2
+  config:
+    endpoint: https://monolog-uploader.monora.workers.dev
+# Fallback when the custom library is unavailable.
 media_folder: "src/img"
 public_folder: "/img"
 
