@@ -1,0 +1,9 @@
+node_modules
+_site
+src/_data/posts.json
+src/_data/pages.json
+up/
+.wrangler/
+.env
+.env.*
+.DS_Store

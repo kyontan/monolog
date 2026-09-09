@@ -1,0 +1,50 @@
+---
+layout: base.njk
+---
+{% from "article.njk" import chips %}
+<main>
+  <article id="post-{{ slug }}" class="post type-post status-publish format-standard hentry">
+    <h2 class="entry-title"><a href="{{ page.url }}" title="Link to {{ title }}" rel="bookmark">{{ title }}</a></h2>
+    <div class="entry-date-wrapper"><a class="permalink" href="{{ page.url }}"><span class="entry-date">{{ date | wpdate }}</span></a></div>
+    {{ chips(categories, post_tags) }}
+    <div class="linebreak"></div>
+    <div class="entry-content">
+      {{ content | safe }}
+      {% set absurl = (site.url + page.url) | urlencode %}
+      {% set abstitle = title | urlencode %}
+      <div class="scriptlesssocialsharing">
+        <div class="scriptlesssocialsharing__buttons">
+          <a class="button twitter" target="_blank" rel="noopener noreferrer nofollow" href="https://twitter.com/intent/tweet?text={{ abstitle }}&url={{ absurl }}" aria-label="Share on X (Twitter)">
+            <svg viewBox="0 0 512 512" class="scriptlesssocialsharing__icon twitter" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+          </a>
+          <a class="button hatena" target="_blank" rel="noopener noreferrer nofollow" href="https://b.hatena.ne.jp/entry/panel/?url={{ absurl }}&btitle={{ abstitle }}" aria-label="Share on Hatena">
+            <svg viewBox="0 0 853 711" class="scriptlesssocialsharing__icon hatena" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><path d="M344.709,564.734c-18.912,11.616 -51.503,17.322 -97.231,17.322l-67.65,0l0,-155.169l70.572,0c46.963,0 79.422,5.907 96.687,17.707c17.547,11.806 26.179,32.653 26.179,62.578c0,26.781 -9.46,46.015 -28.557,57.562Zm-164.881,-407.281l41.569,0c48.041,0 80.316,5.425 96.972,16.216c16.437,10.856 24.815,29.578 24.815,56.262c0,25.669 -8.918,43.753 -26.562,54.356c-17.866,10.407 -50.453,15.675 -98.147,15.675l-38.647,0l0,-142.509Zm334.328,222.981c-28.306,-31.634 -67.65,-49.409 -118.14,-53.25c44.906,-12.243 77.521,-30.143 98.15,-54.068c20.531,-23.607 30.715,-55.654 30.715,-95.985c0,-31.925 -6.978,-60.172 -20.5,-84.569c-13.862,-24.246 -33.794,-43.665 -59.972,-58.193c-22.912,-12.6 -50.134,-21.485 -81.868,-26.725c-31.891,-5.078 -87.71,-7.644 -167.8,-7.644l-194.741,0l0,710.225l200.644,0c80.597,0 138.731,-2.822 174.272,-8.222c35.506,-5.581 65.303,-14.975 89.421,-27.853c29.829,-15.744 52.579,-38.144 68.479,-66.925c15.993,-28.875 23.925,-62.169 23.925,-100.247c0,-52.669 -14.188,-95 -42.585,-126.544Z"></path><path d="M762.328,530.303c-49.709,0 -89.978,40.241 -89.978,89.947c0,49.706 40.269,89.975 89.978,89.975c49.644,0 89.947,-40.269 89.947,-89.975c0,-49.706 -40.303,-89.947 -89.947,-89.947Z"></path><rect x="684.187" width="156.25" height="473.484"></rect></svg>
+          </a>
+          <a class="button facebook" target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u={{ absurl }}" aria-label="Share on Facebook">
+            <svg viewBox="0 0 512 512" class="scriptlesssocialsharing__icon facebook" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+          </a>
+        </div>
+      </div>
+      <div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;"></div>
+      <div class="yarpp yarpp-related yarpp-related-website yarpp-template-list">
+        {% if related and related.length %}
+        <div class="linebreak"></div>
+        <p>## 関連記事</p>
+        <ul>
+          {% for r in related %}
+          <li><a href="{{ r.url }}">{{ r.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p>関連記事はありません</p>
+        {% endif %}
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="entry-meta">
+      Permalink: <a href="{{ page.url }}" title="Permalink to {{ title }}">{{ page.url }}</a>.<br>
+    </div>
+    <div class="clear"></div>
+  </article>
+  <div class="linebreak"></div>
+</main>

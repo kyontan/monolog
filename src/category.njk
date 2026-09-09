@@ -1,0 +1,18 @@
+---
+layout: base.njk
+pagination:
+  data: site.categories
+  size: 1
+  alias: cat
+permalink: "/category/{{ cat.slug }}/"
+eleventyComputed:
+  title: "{{ cat.label }} カテゴリのアーカイブ"
+---
+{% from "article.njk" import summary %}
+<main>
+  <h1 class="page-title"><span>{{ cat.label }}</span> カテゴリのアーカイブ</h1>
+  <div class="linebreak clear"></div>
+{% for post in collections.posts %}{% if post.data.categories | selectattr("slug", "equalto", cat.slug) | list | length %}
+{{ summary(post) }}
+{% endif %}{% endfor %}
+</main>

@@ -1,0 +1,11 @@
+---
+layout: base.njk
+title: Archive
+permalink: "/archive/"
+---
+{% from "article.njk" import titles %}
+<main id="archive">
+{% for post in collections.posts %}
+{{ titles(post, loop.last) }}
+{% endfor %}
+</main>

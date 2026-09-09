@@ -1,0 +1,18 @@
+---
+layout: base.njk
+pagination:
+  data: site.tags
+  size: 1
+  alias: tag
+permalink: "/tag/{{ tag.slug }}/"
+eleventyComputed:
+  title: "Tag Archives: {{ tag.label }}"
+---
+{% from "article.njk" import summary %}
+<main>
+  <h1 class="page-title">Tag Archives: <span>{{ tag.label }}</span></h1>
+  <div class="linebreak clear"></div>
+{% for post in collections.posts %}{% if post.data.post_tags | selectattr("slug", "equalto", tag.slug) | list | length %}
+{{ summary(post) }}
+{% endif %}{% endfor %}
+</main>

@@ -1,0 +1,18 @@
+---
+layout: base.njk
+pagination:
+  data: site.years
+  size: 1
+  alias: y
+permalink: "/{{ y.year }}/"
+eleventyComputed:
+  title: "{{ y.year }}年"
+---
+{% from "article.njk" import summary %}
+<main>
+  <h1 class="page-title"><span>{{ y.year }}年</span>の投稿</h1>
+  <div class="linebreak clear"></div>
+{% for post in collections.posts %}{% if post.data.year == y.year %}
+{{ summary(post) }}
+{% endif %}{% endfor %}
+</main>

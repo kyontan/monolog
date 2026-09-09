@@ -1,0 +1,48 @@
+# Decap CMS config. Before use:
+#  1. deploy decap-proxy and set base_url below to its workers.dev URL
+#  2. decide media hosting: media_folder below commits into the repo, but the
+#     converted articles reference absolute R2 URLs. Align when ready.
+backend:
+  name: github
+  base_url: https://YOUR-PROXY.workers.dev # TODO: decap-proxy URL
+  auth_endpoint: /auth
+  repo: kyontan/monolog
+  branch: main
+
+# Prevent Decap from publishing directly; use editorial workflow PRs.
+publish_mode: editorial_workflow
+media_folder: "src/img"
+public_folder: "/img"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        fields:
+          - { label: "Slug", name: "slug", widget: "string" }
+          - { label: "Label", name: "label", widget: "string" }
+      - label: "Tags"
+        name: "post_tags"
+        widget: "list"
+        fields:
+          - { label: "Slug", name: "slug", widget: "string" }
+          - { label: "Label", name: "label", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About"
+        name: "about"
+        file: "src/pages/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

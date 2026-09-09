@@ -1,0 +1,38 @@
+{% macro catlinks(terms) -%}
+<span class="cat-links">{%- for t in terms -%}{% if not loop.first %} {% endif %}<a href="/category/{{ t.slug }}/" rel="category tag">{{ t.label }}</a>{% endfor %}</span>
+{%- endmacro %}
+
+{% macro taglinks(terms) -%}
+<span class="tag-links">{%- for t in terms -%}{% if not loop.first %} {% endif %}<a href="/tag/{{ t.slug }}/" rel="tag">{{ t.label }}</a>{% endfor %}</span>
+{%- endmacro %}
+
+{% macro chips(categories, post_tags) -%}
+{%- set has_cats = categories and categories.length -%}
+{%- set has_tags = post_tags and post_tags.length -%}
+{%- if has_cats %}{{ catlinks(categories) }}{% endif -%}
+{%- if has_cats and has_tags %} {% endif -%}
+{%- if has_tags %}{{ taglinks(post_tags) }}{% endif -%}
+{%- endmacro %}
+
+{% macro summary(post) %}
+  <article id="post-{{ post.data.slug }}" class="post type-post status-publish format-standard hentry">
+    <h2 class="entry-title"><a href="{{ post.url }}" title="Link to {{ post.data.title }}" rel="bookmark">{{ post.data.title }}</a></h2>
+    <div class="entry-date-wrapper"><a class="permalink" href="{{ post.url }}"><span class="entry-date">{{ post.data.date | wpdate }}</span></a></div>
+    {{ chips(post.data.categories, post.data.post_tags) }}
+    <div class="entry-content">
+      {{ post.templateContent | more(post.url, post.data.slug) | safe }}
+      <div class="clear"></div>
+    </div>
+    <div class="entry-excerpt"><a href="{{ post.url }}">{{ post.templateContent | excerpt }}</a></div>
+  </article>
+  <div class="linebreak"></div>
+{% endmacro %}
+
+{% macro titles(post, last) %}
+  <article id="post-{{ post.data.slug }}" class="post type-post status-publish format-standard hentry">
+    <h2 class="entry-title"><a href="{{ post.url }}" title="Link to {{ post.data.title }}" rel="bookmark">{{ post.data.title }}</a></h2>
+    <div class="entry-date-wrapper"><a class="permalink" href="{{ post.url }}"><span class="entry-date">{{ post.data.date | wpdate }}</span></a></div>
+    {{ chips(post.data.categories, post.data.post_tags) }}
+  </article>
+  {% if not last %}<div class="linebreak"></div>{% endif %}
+{% endmacro %}

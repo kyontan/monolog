@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=fallback" rel="stylesheet">
+<link rel="stylesheet" href="/css/ress.min.css">
+<link rel="stylesheet" href="/css/codium.css">
+<title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
+</head>
+<body>
+
+<header>
+  <h1 id="blog-title" class="blogtitle"><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
+  <div class="description">{{ site.tagline }} </div>
+</header>
+
+<nav id="nav-head">
+  <div class="menu-header">
+    <ul id="menu-link" class="menu">
+      {% for item in site.menu %}
+      <li class="menu-item"><a href="{{ item.url }}">{{ item.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+{{ content | safe }}
+
+<aside id="sidebar">
+  <nav id="nav-side">
+    <div class="menu-header">
+      <ul id="menu-link-1" class="menu">
+        {% for item in site.menu %}
+        <li class="menu-item"><a href="{{ item.url }}">{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+
+  <ul>
+    <li id="text-2" class="widget widget_text">
+      <div class="widgetblock">
+        <div class="widgettitleb"><h3 class="widgettitle">{{ site.about.title }}</h3></div>
+        <div class="textwidget">{{ site.about.content | pt | safe }}</div>
+      </div>
+    </li>
+
+    <li id="recent-posts-2" class="widget widget_recent_entries">
+      <div class="widgetblock">
+        <div class="widgettitleb"><h3 class="widgettitle">最近の投稿</h3></div>
+        <ul>
+          {% for p in site.recent %}
+          <li><a href="{{ p.url }}">{{ p.title }}</a> <span class="post-date">({{ p.date }})</span></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </li>
+
+    <li id="categories-3" class="widget widget_categories">
+      <div class="widgetblock">
+        <div class="widgettitleb"><h3 class="widgettitle">カテゴリー</h3></div>
+        <ul>
+          {% for c in site.categories %}
+          <li class="cat-item"><a href="/category/{{ c.slug }}/">{{ c.label }}</a> ({{ c.count }})</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </li>
+
+    <li id="search-2" class="widget widget_search">
+      <div class="widgetblock">
+        <form role="search" class="search-form" onsubmit="location.href='https://www.google.com/search?q='+encodeURIComponent('site:blog.monora.me '+this.q.value);return false;">
+          <label>
+            <span class="screen-reader-text">検索:</span>
+            <input type="search" class="search-field" placeholder="検索…" value="" name="q" />
+          </label>
+          <input type="submit" class="search-submit" value="検索" />
+        </form>
+      </div>
+    </li>
+
+    <li id="annual_archive_widget-2" class="widget Annual_Archive_Widget">
+      <div class="widgetblock">
+        <div class="widgettitleb"><h3 class="widgettitle">Archive</h3></div>
+        <ul>
+          {% for y in site.years %}
+          <li><a href="/{{ y.year }}/">{{ y.year }}</a>&nbsp;({{ y.count }})</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </li>
+  </ul>
+</aside>
+<div class="clear"></div>
+<div id="footerlink">
+  <div class="alignright"><p>Proudly powered by <a href="https://www.11ty.dev/">Eleventy</a></p></div>
+</div>
+</body>
+</html>

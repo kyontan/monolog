@@ -1,0 +1,19 @@
+---
+layout: base.njk
+pagination:
+  data: collections.posts
+  size: 10
+  alias: pagePosts
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+---
+{% from "article.njk" import summary %}
+<main id="index">
+{% for post in pagePosts %}
+{{ summary(post) }}
+{% endfor %}
+  <div class="center">
+    {% if pagination.nextPageHref %}
+    <div class="navigation mobileoff"><p><a href="{{ pagination.nextPageHref }}">次ページへ »</a></p></div>
+    {% endif %}
+  </div>
+</main>

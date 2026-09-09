@@ -1,0 +1,13 @@
+---
+layout: base.njk
+---
+<main>
+  <article id="post-{{ slug }}" class="post type-page status-publish hentry">
+    <h2 class="entry-title">{{ title }}</h2>
+    <div class="linebreak clear"></div>
+    <div class="entry-content">
+      {{ content | safe }}
+      <div class="clear"></div>
+    </div>
+  </article>
+</main>

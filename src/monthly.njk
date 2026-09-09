@@ -1,0 +1,18 @@
+---
+layout: base.njk
+pagination:
+  data: site.months
+  size: 1
+  alias: m
+permalink: "/{{ m.year }}/{{ m.month }}/"
+eleventyComputed:
+  title: "{{ m.label }}"
+---
+{% from "article.njk" import summary %}
+<main>
+  <h1 class="page-title"><span>{{ m.label }}</span>の投稿</h1>
+  <div class="linebreak clear"></div>
+{% for post in collections.posts %}{% if post.data.year == m.year and post.data.month == m.month %}
+{{ summary(post) }}
+{% endif %}{% endfor %}
+</main>
