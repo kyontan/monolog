@@ -15,7 +15,8 @@ function jst(iso, withTime) {
 }
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addFilter("pt", (blocks) => renderPT(blocks));
+  // Decap editing data, not site content.
+  eleventyConfig.ignores.add("src/taxonomies.yml");  eleventyConfig.addFilter("pt", (blocks) => renderPT(blocks));
   // Newest first (WP default order).
   eleventyConfig.addCollection("posts", (api) =>
     api.getFilteredByTag("posts").sort((a, b) => b.date - a.date),

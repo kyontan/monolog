@@ -32,12 +32,20 @@ collections:
       - { label: "Slug", name: "slug", widget: "string" }
       - label: "Categories (slugs derive automatically)"
         name: "categories"
-        widget: "list"
-        field: { label: "Category", name: "category", widget: "string" }
+        widget: "relation"
+        collection: "taxonomies"
+        file: "terms"
+        search_fields: ["categories.*"]
+        value_field: "categories.*"
+        multiple: true
       - label: "Tags (slugs derive automatically)"
         name: "post_tags"
-        widget: "list"
-        field: { label: "Tag", name: "tag", widget: "string" }
+        widget: "relation"
+        collection: "taxonomies"
+        file: "terms"
+        search_fields: ["tags.*"]
+        value_field: "tags.*"
+        multiple: true
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
@@ -48,3 +56,18 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "taxonomies"
+    label: "Taxonomies"
+    files:
+      - label: "Terms"
+        name: "terms"
+        file: "src/taxonomies.yml"
+        fields:
+          - label: "Categories"
+            name: "categories"
+            widget: "list"
+            field: { label: "Category", name: "category", widget: "string" }
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            field: { label: "Tag", name: "tag", widget: "string" }
