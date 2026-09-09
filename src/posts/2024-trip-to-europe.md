@@ -17,7 +17,7 @@ post_tags:
 [whywaita Advent Calendar 2024](https://adventar.org/calendars/10030)の4日目の記事です。
 ~~タイムゾーンはPST(UTC-8)だから2024-12-04T23:59:59-08:00までに書けば許されるよね! ハム太郎~~
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-4.png" alt="" loading="lazy"><figcaption class="gallery-caption">ぼく悪いオタクじゃないよ</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/image-4.png" alt="" loading="lazy"><figcaption class="gallery-caption">ぼく悪いオタクじゃないよ</figcaption></figure>
 
 3日目はマブダチであるmolyさんの[企業内セキュリティリサーチャー(R&D寄り)としての生活 - GeT_Pwn3d!](https://morimolymoly.hateblo.jp/entry/2024/12/03/110801) でした。元気そうでなによりです。
 
@@ -39,7 +39,7 @@ post_tags:
 
 
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image.png" alt="" loading="lazy"><figcaption class="gallery-caption">あまりにも雑ないきたいところリスト</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/image.png" alt="" loading="lazy"><figcaption class="gallery-caption">あまりにも雑ないきたいところリスト</figcaption></figure>
 
 ## 往復の検討
 
@@ -54,13 +54,13 @@ JALの特典航空券の場合、直行便の選択肢としてはイギリス(�
 
 JALの国際線特典航空券は日付や便によって必要マイル数が大きく変動するため、よしなに安い便を探していきます。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/01M1ZWQCJJ78KHQXCBNS7SKR9G-image-1.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">タッチの差で取られる特典航空券</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/01M1ZWQCJJ78KHQXCBNS7SKR9G-image-1.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">タッチの差で取られる特典航空券</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-1.png" alt="" loading="lazy"><figcaption class="gallery-caption">1席しか空いてなかった特典航空券</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/image-1.png" alt="" loading="lazy"><figcaption class="gallery-caption">1席しか空いてなかった特典航空券</figcaption></figure>
 
 当初はロンドンに前乗りしようと考えていましたが全然取れず諦めます。最終的に以下の便を取りました。どうせなら土曜日(2024-07-27)発が良かったのですが高くて取れず……
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/01M1ZWQD4WWKT2S2G7G564M3FB-image-2.jpg)
+![](https://monora-monolog-media.1line.dev/01M1ZWQD4WWKT2S2G7G564M3FB-image-2.jpg)
 
 ところが、航空券を4ヶ月~~放置~~熟成させたところ、偶然フライトを変更する機会が発生し、2024-07-27発にできたのでした。
 
@@ -68,7 +68,7 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 埋まっていくエコノミー、とにかく高い特典航空券、そして検討に検討を重ね、更に検討を重ねた結果得られた結果がこちらです。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-2.png" alt="" loading="lazy"><figcaption class="gallery-caption">22泊23日ってマジですの?</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/image-2.png" alt="" loading="lazy"><figcaption class="gallery-caption">22泊23日ってマジですの?</figcaption></figure>
 
 最終的に、なぜかエコノミーよりプレミアムエコノミーよりビジネスの方が安いという謎な便を発見し、ヒースローから羽田までビジネスクラスで帰ることになりました。良かったね。でも日程は伸びに伸びました。
 
@@ -76,9 +76,9 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 航空券だけで文字数使ってしまったので詳細には記しませんが、「みんなの行きたいところだいたい全部行く」メソッドを採用しました。あとは頑張って一筆書きするだけです
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/01M1ZWSC3Q929RB3905NS72ZB8-image-5.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的な移動経路。こうしてみると世界一周したと言っても過言ではない……ような気がしますね</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/01M1ZWSC3Q929RB3905NS72ZB8-image-5.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的な移動経路。こうしてみると世界一周したと言っても過言ではない……ような気がしますね</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-5-1.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的な移動経路(拡大版)</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/image-5-1.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的な移動経路(拡大版)</figcaption></figure>
 
 頑張った。本当に頑張った。
 
@@ -132,9 +132,9 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1321.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Ravintola Saariにて。ザリガニパーティー</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1321.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Ravintola Saariにて。ザリガニパーティー</figcaption></figure>
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08265.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ザリガニs</figcaption></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1325.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ザリガニ〜</figcaption></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1329.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">多分こんな感じで食べます。雰囲気なのであっているかはわからない</figcaption></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08265.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ザリガニs</figcaption></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1325.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ザリガニ〜</figcaption></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1329.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">多分こんな感じで食べます。雰囲気なのであっているかはわからない</figcaption></figure></div>
 
 ### エストニア (タリン)
 
@@ -144,11 +144,11 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 - あと中世風コンセプト居酒屋?的なところ(Olde Hansa)で飲んだハニービールとスープが美味かった
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08437.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08414.jpeg" alt="" loading="lazy"></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08437.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08414.jpeg" alt="" loading="lazy"></figure></div>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1403.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ところで今回の旅行で唯一日本料理を食べたのがエストニアのラーメンなんですが、僕はこれをラーメンだとは絶対に認めません</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1403.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ところで今回の旅行で唯一日本料理を食べたのがエストニアのラーメンなんですが、僕はこれをラーメンだとは絶対に認めません</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1384-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">現役の手動ドアエレベーター @Hestia Hotel Barons</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1384-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">現役の手動ドアエレベーター @Hestia Hotel Barons</figcaption></figure>
 
 ### オランダ (アムステルダム)
 
@@ -168,19 +168,19 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
   - 写真に残せない体験型観光スポット多し
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08518.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">オランダと言ったら風車でしょう。残念ながら世界遺産のキンデルダイクには行けませんでしたが、アムステルダム至近のザーンセ・スカンスも十分に楽しめました。満足</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08518.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">オランダと言ったら風車でしょう。残念ながら世界遺産のキンデルダイクには行けませんでしたが、アムステルダム至近のザーンセ・スカンスも十分に楽しめました。満足</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08496.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">アムステルダム中央駅、良い……ホームの途中にシーサスクロッシングあるのおもろい</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08496.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">アムステルダム中央駅、良い……ホームの途中にシーサスクロッシングあるのおもろい</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1454.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">アムステルダム市内でふらっと立ち寄って食べたレストラン(De Plantage)のラビオリがはちゃめちゃ美味しくて、チーズの扱いが巧すぎる…………ってなったときの写真</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1454.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">アムステルダム市内でふらっと立ち寄って食べたレストラン(De Plantage)のラビオリがはちゃめちゃ美味しくて、チーズの扱いが巧すぎる…………ってなったときの写真</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08556.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">宿 on 水 @ Hotelboat Angeline</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08556.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">宿 on 水 @ Hotelboat Angeline</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08599.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">あまりにもチーズ欲が高ぶってしまい、市内で見かけたお店でメニューもないのに「なんかいい感じにワインといっしょに摘みたいんだけど〜!」って言ったらいい感じにやってくれて最高だった回。完全に満足 @ De Mannen van Kaas</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08599.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">あまりにもチーズ欲が高ぶってしまい、市内で見かけたお店でメニューもないのに「なんかいい感じにワインといっしょに摘みたいんだけど〜!」って言ったらいい感じにやってくれて最高だった回。完全に満足 @ De Mannen van Kaas</figcaption></figure>
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08623.jpg)
+![](https://monora-monolog-media.1line.dev/DSC08623.jpg)
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08653.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">世界ふれあい街歩きで見たことありそう</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08653.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">世界ふれあい街歩きで見たことありそう</figcaption></figure>
 
 ### フランス (パリ, ストラスブール, コルマール)
 
@@ -188,7 +188,7 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 次回は美食を堪能します
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1496.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">パリ北 (Paris-Nord) 駅 デカくて良い</figcaption></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08725.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">凱旋門もオリンピック気取り</figcaption></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1496.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">パリ北 (Paris-Nord) 駅 デカくて良い</figcaption></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08725.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">凱旋門もオリンピック気取り</figcaption></figure></div>
 
 - 凱旋門: 登った
 
@@ -196,11 +196,11 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
   - 凱旋門って上れるんですね。知らなかったけど良い体験でした
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08734.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">凱旋門の上から眺めるエッフェル塔</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08734.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">凱旋門の上から眺めるエッフェル塔</figcaption></figure>
 
 - エッフェル塔: 見た
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08749.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">セーヌ川とエッフェル塔。満足</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08749.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">セーヌ川とエッフェル塔。満足</figcaption></figure>
 
 - モナリザ: 見た
 
@@ -212,7 +212,7 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 - ワイン: 飲んだ
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08797.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ストラスブールまでの車窓、無過ぎて面白かった</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC08797.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ストラスブールまでの車窓、無過ぎて面白かった</figcaption></figure>
 
 #### ストラスブール
 
@@ -222,43 +222,43 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 ここなら楽しく暮らせそう！
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09080.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">保登心愛さんの足跡を追いかけて</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09080.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">保登心愛さんの足跡を追いかけて</figcaption></figure>
 
 あとふらっと立ち寄ったマーケットのパテ・アン・クルート(パテのパイ包み焼き)が想像を絶する美味しさでした。さすがおフランス……………
 
 アルザスのワイン街道を @nasu に運転させることによりワインの試飲で酔っ払うことに成功して最高
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09166.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ワイン畑の中に村がある、そんな感じです</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09166.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ワイン畑の中に村がある、そんな感じです</figcaption></figure>
 
 最高のワイナリーも見つかったので人生の楽しみが増えました
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09133.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">何を撮っても絵になりますね</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09133.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">何を撮っても絵になりますね</figcaption></figure>
 
 ### スイス (ツェルマット)
 
 自分が行きたかったポイントの1つ。登山をするからには一度は本物のアルプスに登ってみたいなあ、ということで下見へ……
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09256.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">デカくて……良い…… @バーゼルSBB駅</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09256.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">デカくて……良い…… @バーゼルSBB駅</figcaption></figure>
 
 ちなみにこの時点で間違ってかなり高額な切符を二重に購入したことに気が付いており心を病んでいます。移動スケジュールに余裕がないから駅員に聞く暇もない!!!
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09261.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">スイス国鉄、よい………</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09261.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">スイス国鉄、よい………</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09262.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">とにかく鉄道の品質という観点において今回の旅行での圧倒的一位はスイス国鉄でした。見てくださいこの車内</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09262.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">とにかく鉄道の品質という観点において今回の旅行での圧倒的一位はスイス国鉄でした。見てくださいこの車内</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09339.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">食堂車のビールの値段(の高さ)一つとっても圧倒的にスイスです</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09339.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">食堂車のビールの値段(の高さ)一つとっても圧倒的にスイスです</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09330.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">もう意味不明な車窓が広がってます</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09330.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">もう意味不明な車窓が広がってます</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09539.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ヨーロッパで2番目に標高が高い(3089m) ゴルナーグラート駅。絶景</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09539.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ヨーロッパで2番目に標高が高い(3089m) ゴルナーグラート駅。絶景</figcaption></figure>
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09547.jpg)
+![](https://monora-monolog-media.1line.dev/DSC09547.jpg)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09550.jpg)
+![](https://monora-monolog-media.1line.dev/DSC09550.jpg)
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09663.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09672.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09673.jpg" alt="" loading="lazy"></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09663.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09672.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09673.jpg" alt="" loading="lazy"></figure></div>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09616.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">マッターホルン。ここに来るまでの全ての苦労が報われた</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09616.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">マッターホルン。ここに来るまでの全ての苦労が報われた</figcaption></figure>
 
 スイス、全体的に眺め良〜〜〜って感じで良かった。この記事に貼る写真あるかな……と思ってたら手が止まりませんでした
 
@@ -279,13 +279,13 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 全然見栄えの良い写真がなかったんですが、パスタもサラダも全部美味しかったのでまた行きたい。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1826.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ミラノのカツレツ @Al Cantinone</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1826.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ミラノのカツレツ @Al Cantinone</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1828.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">イタリアのカフェ(エスプレッソ)をここで初めて口にしたんですが世界が変わりました</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1828.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">イタリアのカフェ(エスプレッソ)をここで初めて口にしたんですが世界が変わりました</figcaption></figure>
 
 ここで初の夜行列車でナポリへ移動しました。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09762.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なんか深夜にアドリア海沿岸を160km/hぐらいで爆走してて普通に怖かったです</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09762.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なんか深夜にアドリア海沿岸を160km/hぐらいで爆走してて普通に怖かったです</figcaption></figure>
 
 この列車の朝食で出たコーヒーも美味しかったしイタリア人コーヒー淹れるの上手すぎる。
 
@@ -297,15 +297,15 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 #### アマルフィ
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09808.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">どこに行っても酒を飲む</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09808.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">どこに行っても酒を飲む</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09809.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">バルト海に漕ぎ出した我々は当然地中海にも漕ぎ出すわけです</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09809.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">バルト海に漕ぎ出した我々は当然地中海にも漕ぎ出すわけです</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC09920.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">人生</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC09920.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">人生</figcaption></figure>
 
 アマルフィ大聖堂前でうっかり入ったイタリアンバーみたいなところのピッツァははっきり言って人生で一番まずかったですが今となっては良い思い出です。皆さんも店に入る前にGoogle Mapsのレビューぐらいは確認しましょう。☆2は避けろ。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1918.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">宿のおばちゃんに教えてもらったイタリアンのボンゴレビアンコ、めちゃ美味しかったし @katsuo がそのあともずっと大絶賛してた @Ristorante La Botte</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_1918.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">宿のおばちゃんに教えてもらったイタリアンのボンゴレビアンコ、めちゃ美味しかったし @katsuo がそのあともずっと大絶賛してた @Ristorante La Botte</figcaption></figure>
 
 こんな楽園みたいな場所になぜ我々は20時間ぐらいしか滞在しなかったんでしょうか。
 
@@ -313,23 +313,23 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 写真を見て判断してください
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00109.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">空港からベネツィア本島に向かう船上にて。これが世界観です</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00109.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">空港からベネツィア本島に向かう船上にて。これが世界観です</figcaption></figure>
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00164.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00164.jpg)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00137.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00137.jpg)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00139.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00139.jpg)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00162.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00162.jpg)
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00413.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">路線図が好き</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00413.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">路線図が好き</figcaption></figure>
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00330.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00330.jpg)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00283.jpg)
+![](https://monora-monolog-media.1line.dev/DSC00283.jpg)
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00440.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">少し離れたムラーノ島にて</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00440.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">少し離れたムラーノ島にて</figcaption></figure>
 
 ネオ・ヴェネツィアやラティアスに思いを馳せた36時間でした。
 
@@ -339,7 +339,7 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 3泊? したんですが延々と同じ店でビール飲んでた……最高だった…… Suicide Hot Wings (激辛チキンウィング)も美味しかった。
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2046.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2055.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2060.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2089.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2088.jpg" alt="" loading="lazy"></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2046.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2055.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2060.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2089.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2088.jpg" alt="" loading="lazy"></figure></div>
 
 ウィーンと言えばザッハトルテ(チョコレートケーキの一種)が有名らしいです。自分は初めて食べたんですがかなり好みでした。有名な2軒(Sacher, Demel)どちらも行きましたが、甲乙つけがたいと感じました。でも強いて言うなら前者。
 
@@ -355,13 +355,13 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 (だんだん書くのに疲れてきたのでテキストが減ります)
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2176.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2179.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2180.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2184.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2205.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2211.jpg" alt="" loading="lazy"></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2176.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2179.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2180.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2184.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2205.jpg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2211.jpg" alt="" loading="lazy"></figure></div>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2204.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">タンクや配管の温度や流量(客が飲んだ量)が可視化されていて面白かった</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2204.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">タンクや配管の温度や流量(客が飲んだ量)が可視化されていて面白かった</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2209.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">蒸留酒の品揃えすごい。さすが東欧。これはまた攻略しに行きたい</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2209.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">蒸留酒の品揃えすごい。さすが東欧。これはまた攻略しに行きたい</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2207-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">杏の蒸留酒</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2207-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">杏の蒸留酒</figcaption></figure>
 
 ### ドイツ
 
@@ -369,61 +369,61 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 1Lのビールを浴び〜るように飲みながらソーセージ食べた記憶があるようなないような。最後の休憩ポイントでした。ここで @nasu, @katsuo とお別れ。
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2238.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2294.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">手、小さくないか?</figcaption></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2296.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ソーセージ祭り</figcaption></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2238.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2294.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">手、小さくないか?</figcaption></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2296.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ソーセージ祭り</figcaption></figure></div>
 
 #### ベルリン
 
 ベルリンの壁を見てビール飲んでソーセージ食べてベルリンのサウナに入ったことしか記憶にない。実際それしかしていない
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00883.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ベルリンの壁 @East Side Gallery</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00883.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ベルリンの壁 @East Side Gallery</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2338.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">壁の博物館 (The Wall Museum) で買ったコンクリート片のお土産</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2338.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">壁の博物館 (The Wall Museum) で買ったコンクリート片のお土産</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2335.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">結局ビールとソーセージ</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2335.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">結局ビールとソーセージ</figcaption></figure>
 
 ### ベルギー (ブリュッセル)
 
 ここから2人旅です。ちょうど2年に1度のフラワーカーペットのタイミングが重なり、賑わっているブリュッセルを観光できたのは運が良かったです。ベルギービールも堪能できて最高。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00886.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ブリュッセルはムール貝が名物</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00886.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">ブリュッセルはムール貝が名物</figcaption></figure>
 
-<div class="gallery"><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2414.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2420.jpeg" alt="" loading="lazy"></figure></div>
+<div class="gallery"><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2414.jpeg" alt="" loading="lazy"></figure><figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2420.jpeg" alt="" loading="lazy"></figure></div>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2436.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わっふるわっふる</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2436.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わっふるわっふる</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2442.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Spa Station</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2442.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Spa Station</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_0700-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Spa の Spa</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_0700-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">Spa の Spa</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2469.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">Flower Carpet</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2469.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">Flower Carpet</figcaption></figure>
 
 ### イギリス (ロンドン, バース)
 
 ロンドンは見どころが多すぎて書ききれません。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00949.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">世界で一番有名な駅のプラットホームの入口</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00949.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">世界で一番有名な駅のプラットホームの入口</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_0732.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">右のビール、よく考えたらアイルランドなので地元のビールではない</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_0732.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">右のビール、よく考えたらアイルランドなので地元のビールではない</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2551.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">こんな見た目だが最高に美味しかったハンバーガー (Five Guys)</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2551.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">こんな見た目だが最高に美味しかったハンバーガー (Five Guys)</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC00993.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">有名な宮殿</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC00993.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">有名な宮殿</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2587.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">多分世界で一番有名な橋</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2587.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">多分世界で一番有名な橋</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2597.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">有名な石を模したブックエンド</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2597.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">有名な石を模したブックエンド</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2656.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">Bath の Bath</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2656.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">Bath の Bath</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2672.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">おそらく世界でここでしか見られないであろうピクトグラム</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2672.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">おそらく世界でここでしか見られないであろうピクトグラム</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC01136.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なんか徒歩10分ぐらいだと思っていたら思ったより歩かされた様子</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC01136.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なんか徒歩10分ぐらいだと思っていたら思ったより歩かされた様子</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC01165.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">The Stones</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC01165.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">The Stones</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2745.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ヒースロー空港のラウンジ、当然ブリティッシュブレックファスト</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_2745.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ヒースロー空港のラウンジ、当然ブリティッシュブレックファスト</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC01175.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">旅の最後の最後で、偶然にもBritish Airwaysのコンコルドが見られて感動しました</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/DSC01175.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">旅の最後の最後で、偶然にもBritish Airwaysのコンコルドが見られて感動しました</figcaption></figure>
 
 ## 装備
 
@@ -439,7 +439,7 @@ JALの国際線特典航空券は日付や便によって必要マイル数が�
 
 事前に入れていたアプリもいくつかあるのですが、旅行中に追加でいろいろ入れました。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_5087.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的に旅行で使ったアプリたち</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_5087.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">最終的に旅行で使ったアプリたち</figcaption></figure>
 
 並び順と一致しないですが、それぞれ紹介します
 

@@ -19,12 +19,12 @@ post_tags:
 
 おはようございます。名取さなにハマっている kyontan です。
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/a5a52fbc5d024df5c788b1f71ee6d129.png)
+![](https://monora-monolog-media.1line.dev/a5a52fbc5d024df5c788b1f71ee6d129.png)
 
 
 [caption id="attachment_1879" align="aligncenter" width="620"]
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/b3747e99d8a088593e5290ae549054de.png)
+![](https://monora-monolog-media.1line.dev/b3747e99d8a088593e5290ae549054de.png)
 
  最終スコア[/caption]
 
@@ -39,7 +39,7 @@ post_tags:
 
 [caption id="attachment_1875" align="aligncenter" width="620"]
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/score_init.png)
+![](https://monora-monolog-media.1line.dev/score_init.png)
 
  ベンチマークの初回走行の結果しばらく1位になった[/caption]
 
@@ -49,7 +49,7 @@ post_tags:
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/3bbc737a859d096bd81af29e4991f3e3.png)
+![](https://monora-monolog-media.1line.dev/3bbc737a859d096bd81af29e4991f3e3.png)
 
 
 当日は3人がローカルで開発し、本番環境のVMへバイナリを転送して検証する、という進め方でやっていました。Go はクロスプラットフォームでのビルドがしやすいのが便利ですね。
@@ -79,7 +79,7 @@ post_tags:
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/75d9b24b6f7dae18b7cdff0930e9b814.png)
+![](https://monora-monolog-media.1line.dev/75d9b24b6f7dae18b7cdff0930e9b814.png)
 
 数字がタグに付いていることがありますが、これはいいスコアが出た時にバイナリごとコミットしてタグつけておこうぜ、みたいな感じにした結果でした。
 
@@ -107,6 +107,6 @@ https://twitter.com/sukukyon/status/1040457052307447810
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/score_2.png)
+![](https://monora-monolog-media.1line.dev/score_2.png)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/score_3.png)
+![](https://monora-monolog-media.1line.dev/score_3.png)

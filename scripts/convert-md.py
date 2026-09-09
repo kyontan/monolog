@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "src" / "_data"
 POSTS_DIR = ROOT / "src" / "posts"
 PAGES_DIR = ROOT / "src" / "pages"
-MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://media.monora.me").rstrip("/")
+MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://monora-monolog-media.1line.dev").rstrip("/")
 
 con = sqlite3.connect(
     f"file:{next((ROOT / '.wrangler/state/v3/d1/miniflare-D1DatabaseObject').glob('e*.sqlite'))}?mode=ro",

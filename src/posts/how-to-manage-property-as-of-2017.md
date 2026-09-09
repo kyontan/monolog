@@ -49,11 +49,11 @@ kyontan / whywaita ([@whywaita](https://twitter.com/whywaita)) って誰? とい
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/2735c25abdf91300c1296739be8dd4d8.png)
+![](https://monora-monolog-media.1line.dev/2735c25abdf91300c1296739be8dd4d8.png)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/1c5e56ffa986d5553927b378b3b328c9.png)
+![](https://monora-monolog-media.1line.dev/1c5e56ffa986d5553927b378b3b328c9.png)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/eb1ed8db04fc34d8d9c3fb86f94c5c0e.png)
+![](https://monora-monolog-media.1line.dev/eb1ed8db04fc34d8d9c3fb86f94c5c0e.png)
 
 せっかく Swarm とか使っているので、そのあたり連携されるといいのにな、と思ったりしています。そうなるとライフハック感があっていいですね。
 なかなか日記やトレーニングのような日々の繰り返しが続かない私ですが、こういう記録が溜まるものがただ単に面白いので、39ヶ月経った今もまだ続いています。

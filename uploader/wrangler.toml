@@ -10,7 +10,7 @@ bucket_name = "monora-monolog-media"
 
 [vars]
 # Public base URL for inserted image URLs (r2.dev for now; custom domain later).
-PUBLIC_BASE_URL = "https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev"
+PUBLIC_BASE_URL = "https://monora-monolog-media.1line.dev"
 # Only this GitHub user may upload (validated against the Bearer token).
 ALLOWED_GITHUB_USER = "kyontan"
 # Comma-separated origins allowed to call the API (Decap admin page).

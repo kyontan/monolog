@@ -164,7 +164,7 @@ N+1 はデータ量が少ないと影響が見えにくいので、この問題�
 
 当時は完全にテンパっていたのでAPI側の修正を入れる余裕はなく、フロントエンド側で急遽キャッシュ等の対応を入れてもらったものの、却って新しいリソースが見えなくなるなどして大変でした。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/b0b2b8f0-2cc5-4725-ad4f-e39880c3d9d1.png" alt="" loading="lazy"><figcaption class="gallery-caption">私が出題した問題の問題詳細ページ。VoIPに関するトラブルを出題しました。</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/b0b2b8f0-2cc5-4725-ad4f-e39880c3d9d1.png" alt="" loading="lazy"><figcaption class="gallery-caption">私が出題した問題の問題詳細ページ。VoIPに関するトラブルを出題しました。</figcaption></figure>
 
 そんなこんながありつつも、なんとか(?)大会は閉幕。次回への課題を残しつつ、コンテストは第7回へ続きます。
 
@@ -238,9 +238,9 @@ nested_entity.rb では、[このあたり](https://github.com/ictsc/ictsc-score
 
 ちなみにこの頃のスクリーンショットがこちら。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/ictsc7-contest-site.png" alt="ICTSC7 コンテストサイト" loading="lazy"><figcaption class="gallery-caption">ICTSC8におけるコンテストサイトのトップ画面</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/ictsc7-contest-site.png" alt="ICTSC7 コンテストサイト" loading="lazy"><figcaption class="gallery-caption">ICTSC8におけるコンテストサイトのトップ画面</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/bf705b46-8524-43f3-a4b9-8c2698fd1a86.png" alt="" loading="lazy"><figcaption class="gallery-caption">問題一覧画面の一部。このときは、出題された問題群ごとにちゃんと設定があり、その説明文が左に表示されていました。</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/bf705b46-8524-43f3-a4b9-8c2698fd1a86.png" alt="" loading="lazy"><figcaption class="gallery-caption">問題一覧画面の一部。このときは、出題された問題群ごとにちゃんと設定があり、その説明文が左に表示されていました。</figcaption></figure>
 
 #### ICTSC8
 

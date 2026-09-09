@@ -106,13 +106,13 @@ Slack は雑に #times_kyontan に延々と思考を書き連ねていたら割�
 
 #### 生活
 
-![明日から毎日11時にくるぞ](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/c19376fd35f74fabb70f757c3a5d023e.png)
+![明日から毎日11時にくるぞ](https://monora-monolog-media.1line.dev/c19376fd35f74fabb70f757c3a5d023e.png)
 
-![12:25出社予定です、すみません……](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/9a2b5e8f3b669566b01baeaeb8750c82-e1522320951650.png)
+![12:25出社予定です、すみません……](https://monora-monolog-media.1line.dev/9a2b5e8f3b669566b01baeaeb8750c82-e1522320951650.png)
 
-![14:55出社予定です](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/dd7b3bf88315033be8f902e4052b3003-e1522320191360.png)
+![14:55出社予定です](https://monora-monolog-media.1line.dev/dd7b3bf88315033be8f902e4052b3003-e1522320191360.png)
 
-![14:30ごろ出社予定です](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/9fe52f05bed2498fd4e6aeaf441a9986-e1522320206290.png)
+![14:30ごろ出社予定です](https://monora-monolog-media.1line.dev/9fe52f05bed2498fd4e6aeaf441a9986-e1522320206290.png)
 
 流石に最後に「もっと早く来られると良かったね」とか煽られるかなとドキドキしてたんですけど、特に何も言われませんでした……
 
@@ -160,7 +160,7 @@ https://twitter.com/sukukyon/status/978134404039168000
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/syabu.png)
+![](https://monora-monolog-media.1line.dev/syabu.png)
 
 
 最終成果発表で飯の自慢をする時間がなかったので、上のスライドみたく全部のスライドの背景に飯やらなんやらを積めたんですけどあまり気付いてもらえなかったらしい。
@@ -174,7 +174,7 @@ https://twitter.com/sukukyon/status/978134404039168000
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/yuushou.png)
+![](https://monora-monolog-media.1line.dev/yuushou.png)
 
 (注: 優勝という概念はない)
 
@@ -193,7 +193,7 @@ https://twitter.com/sukukyon/status/978134404039168000
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/purchasing_sublime_text-e1522322005679.png)
+![](https://monora-monolog-media.1line.dev/purchasing_sublime_text-e1522322005679.png)
 
 
 お世話になったメンターやチームの皆様、関連部署の皆様、人事の皆様ありがとうございました!!
@@ -207,4 +207,4 @@ https://twitter.com/sukukyon/status/978134404039168000
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_3994.jpg)
+![](https://monora-monolog-media.1line.dev/IMG_3994.jpg)

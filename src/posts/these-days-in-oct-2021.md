@@ -13,7 +13,7 @@ post_tags:
 
 今日このごろシリーズ、しばらく書いていなかったのでたまには振り返ってみる。前回は[修論執筆だいありー](/2021/02/a-diary-of-master-thesis-writing/)でした。
 
-<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_FF2287E88413-1.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ともだち100人できるかな</figcaption></figure>
+<figure class="gallery-item"><img src="https://monora-monolog-media.1line.dev/IMG_FF2287E88413-1.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">ともだち100人できるかな</figcaption></figure>
 
 修論は無事提出され、無のような3月を過ごしていたらすぐに4月。
 

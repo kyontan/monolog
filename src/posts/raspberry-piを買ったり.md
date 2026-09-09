@@ -16,7 +16,7 @@ post_tags:
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_0603.jpg)
+![](https://monora-monolog-media.1line.dev/IMG_0603.jpg)
 
 
 日本からだと下のリンクから買えるそうです。
@@ -30,7 +30,7 @@ CPUがARMアーキテクチャなのでどんなOSでも動くわけではない
 [Raspberry Pi | Arch Linux ARM](http://archlinuxarm.org/platforms/armv6/raspberry-pi)[ArchLinux Install Guide - eLinux.org
 ](http://elinux.org/ArchLinux_Install_Guide)
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_0607.jpg)
+![](https://monora-monolog-media.1line.dev/IMG_0607.jpg)
 
 ケーブルを接続してみた。画面出力はHDMIとコンポジットがありますが、HDMIが使えるモニタがなかったのでコンポジットに。
 コンポジットが使えるモニタもないのですが、何故か[GV-USB](http://www.iodata.jp/product/av/capture/gv-usb/)があったのでそれでPCに取り込むことに。SSHでもいいみたい。
@@ -40,7 +40,7 @@ CPUがARMアーキテクチャなのでどんなOSでも動くわけではない
 電源ケーブルを差し込むと勝手に電源が入ります。
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_0606.jpg)
+![](https://monora-monolog-media.1line.dev/IMG_0606.jpg)
 
 
 Arch Linuxでは初期状態でID:root, PASS:rootらしいのでログインして、キーボード配列を日本語配列に。

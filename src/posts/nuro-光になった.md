@@ -25,7 +25,7 @@ IPv6もネイティブ対応してて、ついでにDNSの方も設定を更新�
 **追記 (2015/10/13) ルーターの交換により解決しました。記事の末尾を参照ください。
 **
 
-![ルーター システムログ](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/router_system_log.png)
+![ルーター システムログ](https://monora-monolog-media.1line.dev/router_system_log.png)
 
 
 wan0(ipv4)がダウンしてる……?! 訳がわからない……

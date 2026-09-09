@@ -51,7 +51,7 @@ post_tags:
 
 
 
-![小型特殊運転自動車免許 申請書](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/kotoku_paper.jpg)
+![小型特殊運転自動車免許 申請書](https://monora-monolog-media.1line.dev/kotoku_paper.jpg)
 
 
 適性検査が終わると、続いて筆記試験です。もちろん小型特殊の受験者は1人しかいないのですが、流石に1人の為に部屋を分けるのも馬鹿馬鹿しいのか、原付と同じ部屋で受験をすることになります。だがしかし、扱いは同じく少数派である日本語以外を用いた試験をする外国人と同じようで、僕の列には日本人は僕しかいないというまたも不思議な状況になった。
@@ -75,7 +75,7 @@ post_tags:
 
 
 
-![小型特殊自動車運転免許証](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/kotoku_licence.jpg)
+![小型特殊自動車運転免許証](https://monora-monolog-media.1line.dev/kotoku_licence.jpg)
 
 
 個人情報だらけなのでボケボケですが、輝かしい「小特」の2文字のために僕(ら)は頑張ってきたんだという気持ちになれます。有効期限の背景が黄緑色なのも若葉っぽさがあって良いですね。
@@ -88,7 +88,7 @@ post_tags:
 下が現在(2015/8/4)の僕の免許証です。
 
 
-![普通自動車運転免許 運転免許証](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/normal_license.jpg)
+![普通自動車運転免許 運転免許証](https://monora-monolog-media.1line.dev/normal_license.jpg)
 
 
 雑感としては、普通自動車免許取り立てで若葉マークを付けているのにも関わらず、免許証が青色というのはやはりミスマッチ感があって良いという感じです。

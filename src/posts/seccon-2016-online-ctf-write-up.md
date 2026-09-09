@@ -101,7 +101,7 @@ mkdir tower; ffmpeg -i SECCON\ TOWER\ 2016\ -\ YouTube.mp4 -vf fps=1 tower/out%0
 
 [caption id="attachment_1463" align="aligncenter" width="620"]
 
-![分類器の様子](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/semaphore_magick.png)
+![分類器の様子](https://monora-monolog-media.1line.dev/semaphore_magick.png)
 
  ImageMagickで頑張って自動分類を試みていた形跡[/caption]
 
@@ -113,7 +113,7 @@ mkdir tower; ffmpeg -i SECCON\ TOWER\ 2016\ -\ YouTube.mp4 -vf fps=1 tower/out%0
 
 [caption id="attachment_1464" align="aligncenter" width="620"]
 
-![手動分類の様子](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/borns.png)
+![手動分類の様子](https://monora-monolog-media.1line.dev/borns.png)
 
  二値化して見やすくしたら骨を分けている気持ちになれた[/caption]
 

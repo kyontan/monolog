@@ -57,7 +57,7 @@ Midonet 、セールスポイントとしては ovs のカーネルモジュー�
 
 
 
-![Midonet Traffic Monitor on Zabbix](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/zabbix2.png)
+![Midonet Traffic Monitor on Zabbix](https://monora-monolog-media.1line.dev/zabbix2.png)
 
 
 Midonet はトラフィックを可視化する機能が Enterprise (有償) にしかなくて、標準だと CLI で謎UUIDと紐付けられた値が取得できるだけなのだけれど、それを色々してちゃんとVMやらホスト間のトラフィックを可視化して Zabbix で表示するようにした。

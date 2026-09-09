@@ -22,7 +22,7 @@ CTF 完全初心者なのになぜか SECCON 2015 九州大会「Attack & Defens
 
 最終順位は 1200点 147位 でした。初心者なりには良くできたのではないでしょうか…… ([http://score.quals.seccon.jp](http://score.quals.seccon.jp))
 
-![seccon2015-ranking](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/seccon2015-ranking.png)
+![seccon2015-ranking](https://monora-monolog-media.1line.dev/seccon2015-ranking.png)
 
 
 自分が解いたのは、以下の通りです

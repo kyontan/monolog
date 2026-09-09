@@ -23,7 +23,7 @@ post_tags:
 
 [caption id="attachment_1920" align="aligncenter" width="620"]
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/failed_to_install_virtualbox.png)
+![](https://monora-monolog-media.1line.dev/failed_to_install_virtualbox.png)
 
  macOS へ VirtualBox のインストールを試行してエラーになっている様子[/caption]
 
@@ -32,7 +32,7 @@ post_tags:
 
 結論から言うと「システム環境設定」-「セキュリティとプライバシー」-「一般」-「ダウンロードしたアプリケーションの実行許可」 で Oracle America, Inc かそれっぽいのを許可する。既に許可してしまったのでボタンが消えているが下の図の枠で囲った位置にボタンが出てくる。
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/approve_installing.png)
+![](https://monora-monolog-media.1line.dev/approve_installing.png)
 
 それっぽいエラーを何もユーザーへ提示せずに死ぬのでハマった。ちなみに macOS のインストーラはエラーログとかを `/var/log/install.log` に吐くのでそれを見ると何で落ちたのかは分かる。
 

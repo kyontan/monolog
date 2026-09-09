@@ -36,7 +36,7 @@ post_tags:
 
 [caption id="attachment_947" align="alignnone" width="1920"]
 
-![monora-feature_140518-1417](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/monora-feature_140518-1417.png)
+![monora-feature_140518-1417](https://monora-monolog-media.1line.dev/monora-feature_140518-1417.png)
 
 2014/5/18 時点でのデザイン構想[/caption]
 
@@ -72,13 +72,13 @@ svg circle {
 
 そうして、これが
 
-![monora-v1](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/monora-v1.png)
+![monora-v1](https://monora-monolog-media.1line.dev/monora-v1.png)
 
  
 
 こうなりました
 
-![monora-160107](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/monora-160107.png)
+![monora-160107](https://monora-monolog-media.1line.dev/monora-160107.png)
 
 自分でも感動した。めっちゃ良い。現代って感じがする。
 
@@ -89,7 +89,7 @@ svg circle {
 
 12/14 には improve と題して~~無駄な~~機能を付けた。
 
-[video src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/ecdce6eba666ffe33ce9ec576a9aed5e.mp4" height="622" width="684"][/video]
+[video src="https://monora-monolog-media.1line.dev/ecdce6eba666ffe33ce9ec576a9aed5e.mp4" height="622" width="684"][/video]
 
 カーソルを乗っけると色が変わったりブラーが掛かったりする。モダンな感じに動くし良いんじゃないかなみたいなノリ。
 Material っぽく、カーソルを乗っけたところから色が変わると面白いかなと思ったけれど、結構実装がつらそうなので後回し。

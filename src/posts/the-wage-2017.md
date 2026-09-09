@@ -21,7 +21,7 @@ post_tags:
 
 
 
-![why「お疲れのところ恐縮ですが早く書け」](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/44480b91bd95aa51858fd87306e94cc0.png)
+![why「お疲れのところ恐縮ですが早く書け」](https://monora-monolog-media.1line.dev/44480b91bd95aa51858fd87306e94cc0.png)
 
 
 お元気そうでなによりです。
@@ -49,7 +49,7 @@ post_tags:
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/bd6e7a00fa3d1179a82e65e1a90c31ed.png)
+![](https://monora-monolog-media.1line.dev/bd6e7a00fa3d1179a82e65e1a90c31ed.png)
 
 
 この図を見ると、色々やった形跡がありますね。しかも掛け持ちしていることが良く分かります。

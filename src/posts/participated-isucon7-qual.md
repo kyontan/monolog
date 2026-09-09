@@ -26,7 +26,7 @@ Ruby実装で挑み、最終スコア 38605点@2017-10-22 20:59:30, ベストス
 
 [caption id="attachment_1668" align="aligncenter" width="620"]
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/isucon7_chart.png)
+![](https://monora-monolog-media.1line.dev/isucon7_chart.png)
 
  ISUCON7 予選での Score / LoadLevel の変化[/caption]
 
@@ -137,7 +137,7 @@ http://twitter.com/hogextend/status/922125423697305600
 
 
 
-![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/isucon7_best_shot.png)
+![](https://monora-monolog-media.1line.dev/isucon7_best_shot.png)
 
 ## 総括/最高
 

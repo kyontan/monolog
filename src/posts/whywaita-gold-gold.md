@@ -21,7 +21,7 @@ post_tags:
 
 
 
-![whywaita-gold-gold](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/whywaita-gold-gold.png)
+![whywaita-gold-gold](https://monora-monolog-media.1line.dev/whywaita-gold-gold.png)
 
 
 さて、この記事ではそんな whywaita 先輩について雑多に書いていこうと思います。
