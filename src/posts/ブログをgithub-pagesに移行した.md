@@ -2,7 +2,9 @@
 title: ブログをGitHub Pagesに移行した
 date: 2026-09-08T21:04:00-05:00
 slug: goodbye-wordpress
-categories: []
+categories:
+  - 雑記
+  - AI
 post_tags: []
 ---
 WordPress + MySQL on Kubernetes on 謎の仮想化基盤 on 自宅サーバー、あまりにも放置しすぎて全然メンテナンスできていなかったので、一回爆破することにした。
