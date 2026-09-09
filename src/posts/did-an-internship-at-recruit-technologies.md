@@ -3,16 +3,11 @@ title: "リクルートのインターンに参加しました"
 date: 2018-03-29T21:34:00+09:00
 slug: "did-an-internship-at-recruit-technologies"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "インターン"
-    label: "インターン"
-  - slug: "リクルート"
-    label: "リクルート"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "インターン"
+  - "リクルート"
+  - "参加しました"
 ---
 
 こんにちは、kyontanです。**最高のインターン**に行ってきました。

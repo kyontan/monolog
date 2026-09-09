@@ -3,16 +3,11 @@ title: "ICTSCのコンテストサイトを支えた技術"
 date: 2020-12-10T00:00:00+09:00
 slug: "technology-that-supports-ictsc-contest-site"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "ictsc"
-    label: "ICTSC"
-  - slug: "ruby"
-    label: "Ruby"
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
----
+  - "ICTSC"
+  - "Ruby"
+  - "whywaita Advent Calendar"
 ---
 
 この記事は [whywaita Advent Calendar 2020](https://adventar.org/calendars/5082) の10日目の記事です。2週目です。来週何を書くか考えるだけで気が遠くなります。

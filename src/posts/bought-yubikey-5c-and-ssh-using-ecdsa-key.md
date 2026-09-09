@@ -3,18 +3,12 @@ title: "YubiKey 5C を買ったので ECDSA鍵で ssh した"
 date: 2019-04-19T01:38:00+09:00
 slug: "bought-yubikey-5c-and-ssh-using-ecdsa-key"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "software"
-    label: "Software"
+  - "Infrastructure"
+  - "Software"
 post_tags:
-  - slug: "macos"
-    label: "macOS"
-  - slug: "openssh"
-    label: "OpenSSH"
-  - slug: "yubikey"
-    label: "YubiKey"
----
+  - "macOS"
+  - "OpenSSH"
+  - "YubiKey"
 ---
 
 こんにちは。唐突に YubiKey が欲しくなったので買いました。こんなことをやっている場合ではない……

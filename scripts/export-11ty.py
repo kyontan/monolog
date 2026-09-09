@@ -105,18 +105,6 @@ about = cur.execute(
     " WHERE w.type='content' AND a.name='sidebar' ORDER BY w.sort_order LIMIT 1"
 ).fetchone()
 
-cat_counts = Counter()
-month_counts = Counter()
-for p in posts:
-    for c in p["categories"]:
-        cat_counts[(c["slug"], c["label"])] += 1
-    month_counts[(p["year"], p["month"])] += 1
-year_counts = Counter(p["year"] for p in posts)
-
-tag_counts = Counter()
-for p in posts:
-    for t in p["tags"]:
-        tag_counts[(t["slug"], t["label"])] += 1
 
 OUT.mkdir(parents=True, exist_ok=True)
 (OUT / "site.json").write_text(
@@ -127,21 +115,6 @@ OUT.mkdir(parents=True, exist_ok=True)
             "url": "https://blog.monora.me",
             "menu": menu,
             "about": {"title": about["title"], "content": json.loads(about["content"])} if about else None,
-            "recent": [
-                {"slug": p["slug"], "url": p["url"], "title": p["title"], "date": p["date"][:10]}
-                for p in posts[:5]
-            ],
-            "categories": [
-                {"slug": s, "label": lb, "count": n} for (s, lb), n in sorted(cat_counts.items())
-            ],
-            "tags": [
-                {"slug": s, "label": lb, "count": n} for (s, lb), n in sorted(tag_counts.items())
-            ],
-            "years": [{"year": y, "count": n} for y, n in sorted(year_counts.items(), reverse=True)],
-            "months": [
-                {"year": y, "month": m, "label": f"{y}年{int(m)}月", "count": n}
-                for (y, m), n in sorted(month_counts.items(), reverse=True)
-            ],
         },
         ensure_ascii=False,
         indent=2,

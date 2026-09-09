@@ -3,16 +3,11 @@ title: "高専カンファレンス100 in 東京 に参加してLTした話"
 date: 2016-01-04T02:25:00+09:00
 slug: "participated-100-conf-in-tokyo"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "100conf"
-    label: "100conf"
-  - slug: "参加しました"
-    label: "参加しました"
-  - slug: "高専カンファレンス"
-    label: "高専カンファレンス"
----
+  - "100conf"
+  - "参加しました"
+  - "高専カンファレンス"
 ---
 
 連日ブログを書いている気がします。きょんたんです。

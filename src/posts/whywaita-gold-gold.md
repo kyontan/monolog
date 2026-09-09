@@ -3,14 +3,10 @@ title: "金の金でwhywaita"
 date: 2015-12-23T23:58:00+09:00
 slug: "whywaita-gold-gold"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "advent-calendar"
-    label: "Advent Calendar"
-  - slug: "whywaita"
-    label: "whywaita"
----
+  - "Advent Calendar"
+  - "whywaita"
 ---
 
 この記事は [whywaita Advent Calendar 2015](http://www.adventar.org/calendars/783) の 23日目の記事です。

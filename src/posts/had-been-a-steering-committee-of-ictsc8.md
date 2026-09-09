@@ -3,18 +3,12 @@ title: "ICTSC8 の運営委員を務めました"
 date: 2017-10-15T17:49:00+09:00
 slug: "had-been-a-steering-committee-of-ictsc8"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ictsc"
-    label: "ICTSC"
-  - slug: "ictsc8"
-    label: "ICTSC8"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ICTSC"
+  - "ICTSC8"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 こんばんは。

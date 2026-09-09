@@ -3,16 +3,11 @@ title: "tmux でも Touch ID で sudo を使う"
 date: 2018-11-15T22:50:00+09:00
 slug: "use-touch-id-for-sudo-in-tmux"
 categories:
-  - slug: "software"
-    label: "Software"
-  - slug: "お役立ち情報"
-    label: "お役立ち情報"
+  - "Software"
+  - "お役立ち情報"
 post_tags:
-  - slug: "macos"
-    label: "macOS"
-  - slug: "touch-id"
-    label: "Touch ID"
----
+  - "macOS"
+  - "Touch ID"
 ---
 
 Touch ID が搭載された MacBook Air を買いました。MacBook Air に欲しかった機能の8つ中8つが実現されたので買いました。1つ10点としたら10^8 で1億点だね、という話をしたら首を傾げられました。

@@ -3,14 +3,10 @@ title: "バイトを辞めました (その2)"
 date: 2017-02-07T00:12:00+09:00
 slug: "retired-a-part-time-job-2"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "愚痴"
-    label: "愚痴"
-  - slug: "退職エントリ"
-    label: "退職エントリ"
----
+  - "愚痴"
+  - "退職エントリ"
 ---
 
 10月にも[似たような記事を書いた](/2016/10/retired-a-part-time-job/)気がしましたが、似たような話です。

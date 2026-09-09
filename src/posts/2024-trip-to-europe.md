@@ -3,14 +3,10 @@ title: "ヨーロッパに行ってきた"
 date: 2024-12-05T00:43:00+09:00
 slug: "2024-trip-to-europe"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "旅行"
-    label: "旅行"
----
+  - "whywaita Advent Calendar"
+  - "旅行"
 ---
 
 こんにちは。なぜかアメリカはラスベガスよりこの記事をお届けしています。

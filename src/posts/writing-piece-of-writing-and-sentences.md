@@ -3,12 +3,9 @@ title: "駄文を書くこと、文章をかくことについて"
 date: 2016-11-18T02:52:00+09:00
 slug: "writing-piece-of-writing-and-sentences"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ポエム"
-    label: "ポエム"
----
+  - "ポエム"
 ---
 
 [先ほどの記事](/2016/11/these-days-in-nov-2016/)でもあったように、僕は駄文を書くのが好きで、このようにダラダラと近況であったり、何か一つの物事についてとりとめもない、結論もない文章を書くのが好きです

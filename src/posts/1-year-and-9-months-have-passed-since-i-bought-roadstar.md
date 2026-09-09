@@ -3,18 +3,12 @@ title: "ロードスターを買って1年9ヶ月"
 date: 2022-12-12T23:44:00+09:00
 slug: "1-year-and-9-months-have-passed-since-i-bought-roadstar"
 categories:
-  - slug: "生活"
-    label: "生活"
+  - "生活"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "ロードスター"
-    label: "ロードスター"
-  - slug: "自転車"
-    label: "自転車"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "whywaita Advent Calendar"
+  - "ロードスター"
+  - "自転車"
+  - "近況報告"
 ---
 
 走行距離は? 燃費はどのくらい? 自動車税は? 修理費は? 調べてみました。

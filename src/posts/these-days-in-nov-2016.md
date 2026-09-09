@@ -3,12 +3,9 @@ title: "2016年11月あたりの今日このごろ"
 date: 2016-11-18T01:09:00+09:00
 slug: "these-days-in-nov-2016"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 こんばんは。

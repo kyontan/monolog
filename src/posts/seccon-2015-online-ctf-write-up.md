@@ -3,12 +3,9 @@ title: "SECCON 2015 Online CTF に参加しました (Write-up)"
 date: 2015-12-07T02:56:00+09:00
 slug: "seccon-2015-online-ctf-write-up"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "ctf"
-    label: "CTF"
----
+  - "CTF"
 ---
 
 CTF 完全初心者なのになぜか SECCON 2015 九州大会「Attack & Defense」 というオンサイトCTFへ参加し、 -163125 点を獲得した kyontan です。

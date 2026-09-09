@@ -3,14 +3,10 @@ title: "ISUCON10 予選の参加ログ (チーム: 再起動非対応, 最終ス
 date: 2020-09-15T00:42:00+09:00
 slug: "reboot-not-supoprted-at-isucon10-qual"
 categories:
-  - slug: "未分類"
-    label: "未分類"
+  - "未分類"
 post_tags:
-  - slug: "isucon"
-    label: "ISUCON"
-  - slug: "インフラ"
-    label: "インフラ"
----
+  - "ISUCON"
+  - "インフラ"
 ---
 
 こんばんは、kyontanです。

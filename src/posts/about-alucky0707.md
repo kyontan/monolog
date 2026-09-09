@@ -3,14 +3,10 @@ title: "alucky0707 について"
 date: 2016-12-10T01:10:00+09:00
 slug: "about-alucky0707"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "adventcalendar"
-    label: "AdventCalendar"
-  - slug: "ぐらぽむadventcalendar"
-    label: "ぐらぽむAdventCalendar"
----
+  - "AdventCalendar"
+  - "ぐらぽむAdventCalendar"
 ---
 
 この記事は [ぐらぽむ Advent Calendar 2016](http://www.adventar.org/calendars/1762) 10日目の記事です。

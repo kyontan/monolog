@@ -3,14 +3,10 @@ title: "2025年12月あたりの今日このごろ"
 date: 2025-12-31T23:59:00+09:00
 slug: "these-days-in-dec-2025"
 categories:
-  - slug: "生活"
-    label: "生活"
-  - slug: "雑記"
-    label: "雑記"
+  - "生活"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 X(旧Twitter)への書き込みが激減したけど生きてます。

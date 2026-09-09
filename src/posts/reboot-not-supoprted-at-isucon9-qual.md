@@ -3,18 +3,12 @@ title: "ISUCON9 予選の参加ログ (チーム: 再起動非対応)"
 date: 2019-09-08T22:44:00+09:00
 slug: "reboot-not-supoprted-at-isucon9-qual"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "programming"
-    label: "Programming"
+  - "Infrastructure"
+  - "Programming"
 post_tags:
-  - slug: "isucon"
-    label: "ISUCON"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ISUCON"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 こんばんは、kyontanです。

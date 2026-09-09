@@ -3,18 +3,12 @@ title: "総資産を Dr.Wallet から Slack へポストするようにした"
 date: 2017-07-10T00:22:00+09:00
 slug: "post-total-assets-from-drwallet-to-slack"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "docker"
-    label: "Docker"
-  - slug: "dr-wallet"
-    label: "Dr.Wallet"
-  - slug: "ruby"
-    label: "Ruby"
-  - slug: "総資産"
-    label: "総資産"
----
+  - "Docker"
+  - "Dr.Wallet"
+  - "Ruby"
+  - "総資産"
 ---
 
 こんにちは。JST+11で生きているので昼です。

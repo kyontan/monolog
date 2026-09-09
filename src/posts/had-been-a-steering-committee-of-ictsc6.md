@@ -3,18 +3,12 @@ title: "第6回 ICTトラブルシューティングコンテストの運営委�
 date: 2016-10-25T19:51:00+09:00
 slug: "had-been-a-steering-committee-of-ictsc6"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ictsc"
-    label: "ICTSC"
-  - slug: "ictsc6"
-    label: "ICTSC6"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ICTSC"
+  - "ICTSC6"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 [ICTトラブルシューティングコンテスト](http://icttoracon.net) という学生が主体となってインフラやサーバに関するトラブルを起こして、学生が解決する(雑) な大会がありまして、その第6回、通称 [ICTSC6](http://icttoracon.net/archives/category/第6回トラコン) の運営側として参加してきました、ということです。

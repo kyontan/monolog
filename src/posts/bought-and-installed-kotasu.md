@@ -3,14 +3,10 @@ title: "こたつを買って最高の環境を構築した"
 date: 2016-01-11T02:59:00+09:00
 slug: "bought-and-installed-kotasu"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "こたつ"
-    label: "こたつ"
-  - slug: "作業環境"
-    label: "作業環境"
----
+  - "こたつ"
+  - "作業環境"
 ---
 
 成人式は成人の日に行われる鎌倉に住んでいます。きょんたんです。

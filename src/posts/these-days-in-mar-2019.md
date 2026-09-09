@@ -3,12 +3,9 @@ title: "2019年3月あたりの今日このごろ"
 date: 2019-03-22T04:32:00+09:00
 slug: "these-days-in-mar-2019"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 こんにちは。最近名乗るときに自分はkyontanなのかきょんたんなのか@sukukyonなのか分かりません。

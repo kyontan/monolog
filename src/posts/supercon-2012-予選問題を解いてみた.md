@@ -3,12 +3,9 @@ title: "Supercon2012予選問題を解いてみた"
 date: 2012-06-24T17:58:00+09:00
 slug: "supercon-2012-予選問題を解いてみた"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "supercon2012"
-    label: "Supercon2012"
----
+  - "Supercon2012"
 ---
 
 以前から、[Supercon](http://www.gsic.titech.ac.jp/supercon/main/attwiki/)の存在自体は知っていて、ずっと参加したいと思っていたのですが、ついに参加する機会を得ることが出来たので予選問題解きました。

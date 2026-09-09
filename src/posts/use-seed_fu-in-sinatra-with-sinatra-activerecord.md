@@ -3,16 +3,11 @@ title: "sinatra-activerecord で seed_fu を使ってみた"
 date: 2015-10-14T04:02:00+09:00
 slug: "use-seed_fu-in-sinatra-with-sinatra-activerecord"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "activerecord"
-    label: "ActiveRecord"
-  - slug: "ruby"
-    label: "Ruby"
-  - slug: "sinatra"
-    label: "sinatra"
----
+  - "ActiveRecord"
+  - "Ruby"
+  - "sinatra"
 ---
 
 Sinatra で、[sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord) を使っているときに、`$ rake db:seed` すると、既に存在するレコードが重複登録される。

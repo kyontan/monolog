@@ -3,16 +3,11 @@ title: "Gehirn DNS を DDNS っぽく使えるようにする gddns2 を作っ�
 date: 2015-10-13T02:15:00+09:00
 slug: "wrote-gddns2-a-ddns-client-for-gehirn-dns"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "gddns2"
-    label: "gddns2"
-  - slug: "gehirn-dns"
-    label: "Gehirn DNS"
-  - slug: "作った"
-    label: "作った"
----
+  - "gddns2"
+  - "Gehirn DNS"
+  - "作った"
 ---
 
 皆さん Gehirn DNS 使ってますか? 僕は使ってます!

@@ -3,16 +3,11 @@ title: "開いているタブ数をツイートする Chrome Extension を作っ
 date: 2013-09-22T00:37:00+09:00
 slug: "chrome-extension-tweets-number-of-opening-tabs"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "chrome-extension"
-    label: "Chrome Extension"
-  - slug: "twitter"
-    label: "Twitter"
-  - slug: "作った"
-    label: "作った"
----
+  - "Chrome Extension"
+  - "Twitter"
+  - "作った"
 ---
 
 ふとした思いつきで作ってみた。

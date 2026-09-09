@@ -3,16 +3,11 @@ title: "shotgun じゃなくて rerun を使おうという話"
 date: 2016-03-27T04:32:00+09:00
 slug: "use-rerun-with-tmux-not-shotgun"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "rerun"
-    label: "rerun"
-  - slug: "ruby"
-    label: "Ruby"
-  - slug: "tmux"
-    label: "tmux"
----
+  - "rerun"
+  - "Ruby"
+  - "tmux"
 ---
 
 Ruby で Rack アプリケーションを書いているときに、コード変更したら自動的にサーバー再起動したいという話。

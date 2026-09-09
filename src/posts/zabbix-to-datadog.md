@@ -3,16 +3,11 @@ title: "Zabbix で収集したデータを Datadog へ投げる"
 date: 2017-08-06T01:23:00+09:00
 slug: "zabbix-to-datadog"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "programming"
-    label: "Programming"
+  - "Infrastructure"
+  - "Programming"
 post_tags:
-  - slug: "datadog"
-    label: "datadog"
-  - slug: "zabbix"
-    label: "zabbix"
----
+  - "datadog"
+  - "zabbix"
 ---
 
 こんにちは。これを書いているのは JST 4:30 ですが、最近は JST+0900で生きているので、昼間です。そろそろ夕方でしょうか。

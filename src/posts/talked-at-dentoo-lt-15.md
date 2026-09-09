@@ -3,14 +3,10 @@ title: "Dentoo.LT #15 に登壇した"
 date: 2016-10-24T02:19:00+09:00
 slug: "talked-at-dentoo-lt-15"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "dentoo-lt"
-    label: "Dentoo.LT"
-  - slug: "mma"
-    label: "MMA"
----
+  - "Dentoo.LT"
+  - "MMA"
 ---
 
 世にも不思議な電気通信大学MMAという団体が主催している [Dentoo.LT #15](http://atnd.org/events/81655) というイベントがあって、登壇しました。あと寝坊しました。ゆるしてください

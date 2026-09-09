@@ -3,14 +3,10 @@ title: "mod_mrubyをFreeBSDで動かそうとして詰まる"
 date: 2012-12-21T20:37:00+09:00
 slug: "mod_mrubyをfreebsdで動かそうとして詰まる"
 categories:
-  - slug: "freebsd"
-    label: "FreeBSD"
-  - slug: "programming"
-    label: "Programming"
+  - "FreeBSD"
+  - "Programming"
 post_tags:
-  - slug: "mruby-apache-mod_mruby"
-    label: "mruby Apache mod_mruby"
----
+  - "mruby Apache mod_mruby"
 ---
 
 CombConfの発表が2日後に迫っているにも関わらず他の技術に手がでます。

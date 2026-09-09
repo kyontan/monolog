@@ -3,14 +3,10 @@ title: "Apple Storeに行ったらMBAが5時間で修理された話"
 date: 2013-03-22T21:45:00+09:00
 slug: "apple-storeに行ったらmbaが5時間で修理された話"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "apple-store"
-    label: "Apple Store"
-  - slug: "macbook-air"
-    label: "MacBook Air"
----
+  - "Apple Store"
+  - "MacBook Air"
 ---
 
 Apple Storeに行く前に 言っておくッ! おれは今 やつの早さを ほんのちょっぴりだが 体験した

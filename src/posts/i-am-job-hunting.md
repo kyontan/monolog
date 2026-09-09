@@ -3,16 +3,11 @@ title: "就職活動中? / 逆求人の感想 2017"
 date: 2017-12-24T00:00:00+09:00
 slug: "i-am-job-hunting"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "就活"
-    label: "就活"
-  - slug: "逆求人"
-    label: "逆求人"
----
+  - "whywaita Advent Calendar"
+  - "就活"
+  - "逆求人"
 ---
 
 こんばんは。kyontan (就職活動中)です。 括弧書きをするとそれっぽいですね。

@@ -162,10 +162,10 @@ def frontmatter(data):
             lines.append(f"{key}: []")
             continue
         lines.append(f"{key}:")
+        # Label-only: slugs derive at build time (WP-compatible rule).
         for t in items:
-            lines.append(f"  - slug: {json.dumps(t['slug'], ensure_ascii=False)}")
-            lines.append(f"    label: {json.dumps(t['label'], ensure_ascii=False)}")
-    lines.append("---")
+            label = t["label"] if isinstance(t, dict) else t
+            lines.append(f"  - {json.dumps(label, ensure_ascii=False)}")
     lines.append("---")
     return "\n".join(lines) + "\n\n"
 

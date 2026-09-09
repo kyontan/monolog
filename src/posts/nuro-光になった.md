@@ -3,14 +3,10 @@ title: "NURO 光になった"
 date: 2014-04-05T01:51:00+09:00
 slug: "nuro-光になった"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ipv6"
-    label: "IPv6"
-  - slug: "nuro-光"
-    label: "NURO 光"
----
+  - "IPv6"
+  - "NURO 光"
 ---
 
 最近TVのCMでも見かける、[NURO 光](http://www.nuro.jp/hikari/)という2Gbps(ベストエフォート)な回線になった。

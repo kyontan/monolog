@@ -3,12 +3,9 @@ title: "Supercon2012に参加します！"
 date: 2012-06-29T21:41:00+09:00
 slug: "supercon2012に参加します！"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "supercon2012"
-    label: "Supercon2012"
----
+  - "Supercon2012"
 ---
 
 今日になってまさかの衝撃。

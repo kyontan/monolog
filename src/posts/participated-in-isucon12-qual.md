@@ -3,18 +3,12 @@ title: "ISUCON12 予選に参加しました (最終スコア15532点)"
 date: 2022-07-27T03:01:00+09:00
 slug: "participated-in-isucon12-qual"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "programming"
-    label: "Programming"
+  - "Infrastructure"
+  - "Programming"
 post_tags:
-  - slug: "isucon"
-    label: "ISUCON"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ISUCON"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 2022年7月23日 (土) に開催された ISUCON12 の予選に「DJ起床失敗とMC布団 w/o MC布団」として [id:h-otter](https://h-otter.hatenablog.jp/) と参加しました。

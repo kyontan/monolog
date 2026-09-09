@@ -3,16 +3,11 @@ title: "Cisco IOS で tftp を使ったアップロードが Permission denied �
 date: 2020-05-13T16:52:00+09:00
 slug: "permission-denied-during-tftp-upload-from-cisco-ios"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
+  - "Infrastructure"
 post_tags:
-  - slug: "cisco-ios"
-    label: "Cisco IOS"
-  - slug: "network"
-    label: "Network"
-  - slug: "tftpd"
-    label: "tftpd"
----
+  - "Cisco IOS"
+  - "Network"
+  - "tftpd"
 ---
 
 家の回線をv6プラスにしたところ、外側から特定のポートへアクセスさせたいような用途、つまりこのブログを自宅サーバーから提供することができないことに変更してから気が付いた。

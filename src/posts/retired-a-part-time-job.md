@@ -3,12 +3,9 @@ title: "バイトを辞めました"
 date: 2016-10-25T19:53:00+09:00
 slug: "retired-a-part-time-job"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "退職エントリ"
-    label: "退職エントリ"
----
+  - "退職エントリ"
 ---
 
 溜まっているタイトルしか書かれていない下書きを消化するシリーズです。

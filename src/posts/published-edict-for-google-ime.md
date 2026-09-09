@@ -3,16 +3,11 @@ title: "Google 日本語入力 で和英変換ができる辞書を公開しま�
 date: 2015-12-24T03:02:00+09:00
 slug: "published-edict-for-google-ime"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "google日本語入力"
-    label: "Google日本語入力"
-  - slug: "作った"
-    label: "作った"
-  - slug: "辞書"
-    label: "辞書"
----
+  - "Google日本語入力"
+  - "作った"
+  - "辞書"
 ---
 
 作ったというか既存のものを3行書き換えただけなのですが……。

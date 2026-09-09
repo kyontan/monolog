@@ -3,16 +3,11 @@ title: "2021年12月あたりの今日このごろ"
 date: 2021-12-19T18:00:00+09:00
 slug: "these-days-in-dec-2021"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "在職エントリ"
-    label: "在職エントリ"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "whywaita Advent Calendar"
+  - "在職エントリ"
+  - "近況報告"
 ---
 
 近況、10月に書いたばかりだけど今日も書きます。なぜならこの記事は[whywaita Advent Calendar 2021](https://adventar.org/calendars/6217)の19日目の記事だからです。

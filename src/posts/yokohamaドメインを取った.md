@@ -3,12 +3,9 @@ title: ".yokohamaドメインを取った"
 date: 2014-09-10T02:00:00+09:00
 slug: "yokohamaドメインを取った"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ドメイン"
-    label: "ドメイン"
----
+  - "ドメイン"
 ---
 
 昨日の昼ごろ、友人から .yokohama が今日らしいという話を聞いてついやってしまった散財事案。

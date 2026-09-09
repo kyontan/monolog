@@ -1,4 +1,11 @@
-// Directory data for 11ty/src/posts/*.md (frontmatter: title/date/slug/categories/post_tags).
+// Directory data for src/posts/*.md
+// (frontmatter: title/date/slug/categories: [labels]/post_tags: [labels]).
+const { slugify } = require("../_includes/slugify.js");
+
+function termsOf(labels) {
+  return (labels || []).map((label) => ({ slug: slugify(label), label }));
+}
+
 function jstParts(iso) {
   const dt = new Date(iso);
   const fmt = new Intl.DateTimeFormat("en-CA", {
@@ -21,16 +28,19 @@ module.exports = {
     },
     year: (data) => jstParts(data.date).year,
     month: (data) => jstParts(data.date).month,
+    categories: (data) => termsOf(data.categories),
+    post_tags: (data) => termsOf(data.post_tags),
     related: (data) => {
-      const cats = new Set((data.categories || []).map((c) => c.slug));
-      const tags = new Set((data.post_tags || []).map((t) => t.slug));
+      const slugs = (terms) => (terms || []).map((t) => (typeof t === "string" ? slugify(t) : t.slug));
+      const cats = new Set(slugs(data.categories));
+      const tags = new Set(slugs(data.post_tags));
       return (data.collections.posts || [])
         .filter((q) => q.data.slug !== data.slug)
         .map((q) => ({
           post: q,
           score:
-            (q.data.post_tags || []).filter((t) => tags.has(t.slug)).length * 2 +
-            (q.data.categories || []).filter((c) => cats.has(c.slug)).length,
+            slugs(q.data.post_tags).filter((s) => tags.has(s)).length * 2 +
+            slugs(q.data.categories).filter((s) => cats.has(s)).length,
         }))
         .filter((r) => r.score >= 2)
         .sort((a, b) => b.score - a.score)

@@ -3,14 +3,10 @@ title: "macOS で Windows 10 のインストーラをUSBメモリに作る"
 date: 2020-05-07T21:19:00+09:00
 slug: "create-windows-10-installer-usb-stick-on-macos"
 categories:
-  - slug: "software"
-    label: "Software"
-  - slug: "雑記"
-    label: "雑記"
+  - "Software"
+  - "雑記"
 post_tags:
-  - slug: "windows10"
-    label: "Windows10"
----
+  - "Windows10"
 ---
 
 2020年にもなってこんなことで微妙に苦しんだので備忘録。

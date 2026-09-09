@@ -50,8 +50,10 @@
       <div class="widgetblock">
         <div class="widgettitleb"><h3 class="widgettitle">最近の投稿</h3></div>
         <ul>
-          {% for p in site.recent %}
-          <li><a href="{{ p.url }}">{{ p.title }}</a> <span class="post-date">({{ p.date }})</span></li>
+          {% for p in collections.posts %}
+          {% if loop.index <= 5 %}
+          <li><a href="{{ p.url }}">{{ p.data.title }}</a> <span class="post-date">({{ p.data.date | wpdate(true) }})</span></li>
+          {% endif %}
           {% endfor %}
         </ul>
       </div>
@@ -61,7 +63,7 @@
       <div class="widgetblock">
         <div class="widgettitleb"><h3 class="widgettitle">カテゴリー</h3></div>
         <ul>
-          {% for c in site.categories %}
+          {% for c in collections.catList %}
           <li class="cat-item"><a href="/category/{{ c.slug }}/">{{ c.label }}</a> ({{ c.count }})</li>
           {% endfor %}
         </ul>
@@ -84,7 +86,7 @@
       <div class="widgetblock">
         <div class="widgettitleb"><h3 class="widgettitle">Archive</h3></div>
         <ul>
-          {% for y in site.years %}
+          {% for y in collections.yearList %}
           <li><a href="/{{ y.year }}/">{{ y.year }}</a>&nbsp;({{ y.count }})</li>
           {% endfor %}
         </ul>

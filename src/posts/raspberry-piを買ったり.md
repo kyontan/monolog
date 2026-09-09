@@ -3,12 +3,9 @@ title: "Raspberry Piを買ったり"
 date: 2012-12-11T23:08:00+09:00
 slug: "raspberry-piを買ったり"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "raspberry-pi"
-    label: "Raspberry Pi"
----
+  - "Raspberry Pi"
 ---
 
 最近、巷で話題のRaspberry Piというものを買いました。

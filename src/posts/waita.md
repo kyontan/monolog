@@ -3,16 +3,11 @@ title: "わいた"
 date: 2023-12-22T13:00:00+09:00
 slug: "waita"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "advent-calendar"
-    label: "Advent Calendar"
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "温泉"
-    label: "温泉"
----
+  - "Advent Calendar"
+  - "whywaita Advent Calendar"
+  - "温泉"
 ---
 
 こんにちは。kyontanです。

@@ -3,18 +3,12 @@ title: "KnobCon史(仮)"
 date: 2016-12-18T04:17:00+09:00
 slug: "knobcon-history"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "knobcon"
-    label: "KnobCon"
-  - slug: "コミケ"
-    label: "コミケ"
-  - slug: "同人"
-    label: "同人"
-  - slug: "豆腐屋"
-    label: "豆腐屋"
----
+  - "KnobCon"
+  - "コミケ"
+  - "同人"
+  - "豆腐屋"
 ---
 
 この記事は [ぐらぽむ Advent Calendar](http://www.adventar.org/calendars/1762) 17日目の記事です。書き始めたのは 12/18 0:05 です。ごめんなさい。

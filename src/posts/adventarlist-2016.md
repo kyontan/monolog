@@ -3,12 +3,9 @@ title: "Adventar::List 2016"
 date: 2016-12-13T02:28:00+09:00
 slug: "adventarlist-2016"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "adventarlist"
-    label: "AdventarList"
----
+  - "AdventarList"
 ---
 
 この記事は [MMA Advent Calendar 2016](http://www.adventar.org/calendars/1414) 12日目 の記事ということになりました。若干遅刻しました。一般に終電で帰宅すると日付が変わっていることが知られています。

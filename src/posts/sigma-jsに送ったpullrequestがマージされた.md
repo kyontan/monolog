@@ -3,14 +3,10 @@ title: "sigma.js に送った Pull Request が マージされた"
 date: 2014-10-09T20:50:00+09:00
 slug: "sigma-jsに送ったpullrequestがマージされた"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "github"
-    label: "Github"
-  - slug: "sigma-js"
-    label: "sigma.js"
----
+  - "Github"
+  - "sigma.js"
 ---
 
 [sigma.js](http://sigmajs.org/) という便利なグラフ(グラフ理論の方)の描画ライブラリがあって、研究のGUI部分で使っていたらバグを踏んだという話。

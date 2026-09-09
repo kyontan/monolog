@@ -3,16 +3,11 @@ title: "Wantedly のインターンに参加した"
 date: 2017-10-24T00:15:00+09:00
 slug: "did-an-internship-at-wantedly"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "wantedly"
-    label: "Wantedly"
-  - slug: "インターン"
-    label: "インターン"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "Wantedly"
+  - "インターン"
+  - "参加しました"
 ---
 
 こんばんは。

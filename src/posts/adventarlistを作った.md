@@ -3,14 +3,10 @@ title: "Adventar::Listを作った"
 date: 2013-12-01T21:39:00+09:00
 slug: "adventarlistを作った"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "adventarlist"
-    label: "AdventarList"
-  - slug: "作った"
-    label: "作った"
----
+  - "AdventarList"
+  - "作った"
 ---
 
 12月になりました。**アドベントカレンダー**の季節ですね。

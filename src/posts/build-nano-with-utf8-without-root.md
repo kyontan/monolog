@@ -3,14 +3,10 @@ title: "non-root な環境で UTF-8 対応の nano をビルドする"
 date: 2015-10-13T05:53:00+09:00
 slug: "build-nano-with-utf8-without-root"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "gnu-nano"
-    label: "GNU nano"
-  - slug: "ubuntu"
-    label: "Ubuntu"
----
+  - "GNU nano"
+  - "Ubuntu"
 ---
 
 Ubuntu なレンタルサーバーで、 `GNU nano` を使おうとしたらそもそも `nano` が入ってなくて、適当にソースを拾ってきて野良ビルドしたら日本語が打てなくてつらくなった。

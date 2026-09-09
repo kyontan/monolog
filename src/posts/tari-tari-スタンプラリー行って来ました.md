@@ -3,14 +3,10 @@ title: "TARI TARI スタンプラリー行って来ました!"
 date: 2012-08-07T23:03:00+09:00
 slug: "tari-tari-スタンプラリー行って来ました"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "tari-tari"
-    label: "TARI TARI"
-  - slug: "江ノ島"
-    label: "江ノ島"
----
+  - "TARI TARI"
+  - "江ノ島"
 ---
 
 [TARI TARI](http://taritari.jp)というアニメ、今期絶賛放送中ですが、近所(江ノ島や鎌倉など)が舞台になっていて、ちょうどスタンプラリーを行なっているということで行って来ました！

@@ -3,12 +3,9 @@ title: "資産管理術について 2020"
 date: 2020-12-17T00:00:00+09:00
 slug: "how-to-manage-property-as-of-2020"
 categories:
-  - slug: "生活"
-    label: "生活"
+  - "生活"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
----
+  - "whywaita Advent Calendar"
 ---
 
 この記事は [whywaita Advent Calendar 2020](https://adventar.org/calendars/5082) 17日目の記事 その2かつ、過去に下にリンクした記事で書いた事柄の現状確認でもあります。

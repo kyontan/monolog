@@ -3,14 +3,10 @@ title: "iPhone 6s に乗り換えた"
 date: 2015-09-26T20:50:00+09:00
 slug: "moved-to-iphone-6s"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "iphone"
-    label: "iPhone"
-  - slug: "買ってみた"
-    label: "買ってみた"
----
+  - "iPhone"
+  - "買ってみた"
 ---
 
 iPhone 3GS → 4s → 5 → 6 と iPhone を使ってきたので、今度も Android に乗り換えることはせず、6s に機種変更した。

@@ -3,16 +3,11 @@ title: "Ubuntu 14.04 LTSでCUDA環境を整える"
 date: 2014-05-09T00:46:00+09:00
 slug: "ubuntuでcuda環境を整える"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "cuda"
-    label: "CUDA"
-  - slug: "gpu"
-    label: "GPU"
-  - slug: "ubuntu"
-    label: "Ubuntu"
----
+  - "CUDA"
+  - "GPU"
+  - "Ubuntu"
 ---
 
 最近組んだPCで環境構築をしていて、何故か物凄くハマったので記録。

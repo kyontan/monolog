@@ -3,12 +3,9 @@ title: "Kuinでエラトステネスのふるい"
 date: 2012-08-27T01:54:00+09:00
 slug: "kuinでエラトステネスのふるい"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "kuin"
-    label: "Kuin"
----
+  - "Kuin"
 ---
 
 Kuin0.02が公開されたので[エラトステネスのふるい](http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%83%88%E3%82%B9%E3%83%86%E3%83%8D%E3%82%B9%E3%81%AE%E7%AF%A9)を使って素数を計算してみた。

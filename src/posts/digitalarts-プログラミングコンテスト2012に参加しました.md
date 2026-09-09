@@ -3,12 +3,9 @@ title: "DigitalArts プログラミングコンテスト2012に参加しまし�
 date: 2012-11-24T21:47:00+09:00
 slug: "digitalarts-プログラミングコンテスト2012に参加しました"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "プログラミングコンテスト"
-    label: "プログラミングコンテスト"
----
+  - "プログラミングコンテスト"
 ---
 
 タイトルの通りです。

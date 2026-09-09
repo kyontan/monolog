@@ -3,18 +3,12 @@ title: "ISUCON8 予選に参加して再起動試験に落ちました"
 date: 2018-09-16T21:35:00+09:00
 slug: "failed-reboot-test-in-isucon8-qual"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "programming"
-    label: "Programming"
+  - "Infrastructure"
+  - "Programming"
 post_tags:
-  - slug: "isucon"
-    label: "ISUCON"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ISUCON"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 おはようございます。名取さなにハマっている kyontan です。

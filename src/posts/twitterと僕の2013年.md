@@ -3,18 +3,12 @@ title: "Twitterと僕の2013年"
 date: 2013-12-04T00:29:00+09:00
 slug: "twitterと僕の2013年"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "advent-calendar"
-    label: "Advent Calendar"
-  - slug: "mecab"
-    label: "MeCab"
-  - slug: "twitter"
-    label: "Twitter"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "Advent Calendar"
+  - "MeCab"
+  - "Twitter"
+  - "近況報告"
 ---
 
 ## [Twitterにおいての一年を振り返る Advent Calendar 2013](http://www.adventar.org/calendars/247)

@@ -3,18 +3,12 @@ title: "macOS Mojave へ VirtualBox をインストールする"
 date: 2018-12-23T03:27:00+09:00
 slug: "install-virtualbox-to-macos-mojave"
 categories:
-  - slug: "software"
-    label: "Software"
-  - slug: "雑記"
-    label: "雑記"
+  - "Software"
+  - "雑記"
 post_tags:
-  - slug: "macos"
-    label: "macOS"
-  - slug: "virtualbox"
-    label: "VirtualBox"
-  - slug: "トラブルシューティング"
-    label: "トラブルシューティング"
----
+  - "macOS"
+  - "VirtualBox"
+  - "トラブルシューティング"
 ---
 
 月末金曜日なので研究から逃げようとしたところハマってしまった。タイトルからしてmacOS初心者感がつよい。

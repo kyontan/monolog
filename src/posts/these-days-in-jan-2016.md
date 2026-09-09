@@ -3,14 +3,10 @@ title: "2016年1月あたりの今日このごろ"
 date: 2016-01-07T02:25:00+09:00
 slug: "these-days-in-jan-2016"
 categories:
-  - slug: "programming"
-    label: "Programming"
-  - slug: "雑記"
-    label: "雑記"
+  - "Programming"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 こんばんは。

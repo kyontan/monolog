@@ -3,14 +3,10 @@ title: "CloudStack の VM を cs コマンドでデプロイしようとして�
 date: 2016-10-24T02:00:00+09:00
 slug: "deploying-vm-using-api-on-cloudstack"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
+  - "Infrastructure"
 post_tags:
-  - slug: "cloudstack"
-    label: "CloudStack"
-  - slug: "ictsc6"
-    label: "ICTSC6"
----
+  - "CloudStack"
+  - "ICTSC6"
 ---
 
 こんばんは。タイトルだけ書いた下書きが溜まっているので書いていきますということです。

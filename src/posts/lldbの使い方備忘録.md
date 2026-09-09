@@ -3,14 +3,10 @@ title: "lldbの使い方備忘録"
 date: 2014-09-28T15:41:00+09:00
 slug: "lldbの使い方備忘録"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "lldb"
-    label: "lldb"
-  - slug: "デバッガ"
-    label: "デバッガ"
----
+  - "lldb"
+  - "デバッガ"
 ---
 
 メモリ管理周りで色々ハマってたのだけど、普通にデバッガを使えばよかった。

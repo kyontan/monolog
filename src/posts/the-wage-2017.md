@@ -3,16 +3,11 @@ title: "時給の上げ方 2017"
 date: 2017-12-17T22:21:00+09:00
 slug: "the-wage-2017"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "アルバイト"
-    label: "アルバイト"
-  - slug: "時給"
-    label: "時給"
----
+  - "whywaita Advent Calendar"
+  - "アルバイト"
+  - "時給"
 ---
 
 こんばんは、kyontanです。お金を溜めて早く温泉付き一戸建てで暮らしたい。

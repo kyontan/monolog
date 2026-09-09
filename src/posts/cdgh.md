@@ -3,12 +3,9 @@ title: "夜の合同説明会 #cdgh"
 date: 2016-11-18T22:55:00+09:00
 slug: "cdgh"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "夜の合同説明会"
-    label: "夜の合同説明会"
----
+  - "夜の合同説明会"
 ---
 
 つまりはインターネット同窓会

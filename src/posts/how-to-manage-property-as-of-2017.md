@@ -3,14 +3,10 @@ title: "資産管理術について 2017"
 date: 2017-12-03T00:00:00+09:00
 slug: "how-to-manage-property-as-of-2017"
 categories:
-  - slug: "生活"
-    label: "生活"
+  - "生活"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "金"
-    label: "金"
----
+  - "whywaita Advent Calendar"
+  - "金"
 ---
 
 こんにちは、kyontanです。執筆時点での現金資産は 38558円 です。

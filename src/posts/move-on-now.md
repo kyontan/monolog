@@ -3,18 +3,12 @@ title: "移動が好きなオタクの話"
 date: 2020-12-03T17:59:00+09:00
 slug: "move-on-now"
 categories:
-  - slug: "生活"
-    label: "生活"
-  - slug: "雑記"
-    label: "雑記"
+  - "生活"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
-  - slug: "旅行"
-    label: "旅行"
-  - slug: "移動"
-    label: "移動"
----
+  - "whywaita Advent Calendar"
+  - "旅行"
+  - "移動"
 ---
 
 こんにちは。この記事は [whywaita Advent Calendar 2020](https://adventar.org/calendars/5082) の3日目の記事です。今日から4週連続で何らかの記事をお届けする予定です。

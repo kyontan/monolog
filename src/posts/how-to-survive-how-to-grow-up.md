@@ -3,12 +3,9 @@ title: "学生エンジニア?についての私の考え"
 date: 2016-11-20T02:57:00+09:00
 slug: "how-to-survive-how-to-grow-up"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "方法論"
-    label: "方法論"
----
+  - "方法論"
 ---
 
 これを読んで思ったことがあったので、適当に呟きやらなんやらをメモるだけです。

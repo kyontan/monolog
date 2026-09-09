@@ -3,12 +3,9 @@ title: "朝起きられなくても就職がしたい！"
 date: 2019-12-21T23:59:00+09:00
 slug: "asa-okirarenakutemo-shushoku-ga-shitai"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
----
+  - "whywaita Advent Calendar"
 ---
 
 こんばんは。この記事は [whywaita Advent Calendar 2019](https://adventar.org/calendars/3910) の21日目の記事、になる予定です!!! タイトルの通りのことを~~数日内をめどに書きます!!~~ 遅刻してしまい申し訳ございません……

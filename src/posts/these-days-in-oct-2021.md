@@ -3,12 +3,9 @@ title: "2021年10月あたりの今日このごろ"
 date: 2021-10-27T22:48:00+09:00
 slug: "these-days-in-oct-2021"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 今日このごろシリーズ、しばらく書いていなかったのでたまには振り返ってみる。前回は[修論執筆だいありー](/2021/02/a-diary-of-master-thesis-writing/)でした。

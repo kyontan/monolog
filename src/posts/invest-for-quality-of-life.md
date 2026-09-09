@@ -3,16 +3,11 @@ title: "生活に投資する話"
 date: 2020-05-29T10:30:00+09:00
 slug: "invest-for-quality-of-life"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "ガジェット"
-    label: "ガジェット"
-  - slug: "生活"
-    label: "生活"
-  - slug: "買い物"
-    label: "買い物"
----
+  - "ガジェット"
+  - "生活"
+  - "買い物"
 ---
 
 今日はタイトルの通りの話です。いつもタイトルと違う話はしてないけれど。

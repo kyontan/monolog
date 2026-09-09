@@ -3,16 +3,11 @@ title: "そろそろ Kubernetes 入門する (1)"
 date: 2021-06-21T23:15:00+09:00
 slug: "sorosoro-kubernetes-1"
 categories:
-  - slug: "cloud-native"
-    label: "Cloud Native"
+  - "Cloud Native"
 post_tags:
-  - slug: "kubernetes"
-    label: "Kubernetes"
-  - slug: "n0stack"
-    label: "n0stack"
-  - slug: "server"
-    label: "Server"
----
+  - "Kubernetes"
+  - "n0stack"
+  - "Server"
 ---
 
 いい加減クラウドネイティブっぽいことをやりたいと言い出して早数年、世の中の流れには完全に乗り遅れた感がありますが、今更入門することにしました。

@@ -3,16 +3,11 @@ title: "年齢++"
 date: 2013-09-22T02:01:00+09:00
 slug: "aged"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "amazon-wishlist"
-    label: "Amazon Wishlist"
-  - slug: "誕生日"
-    label: "誕生日"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "Amazon Wishlist"
+  - "誕生日"
+  - "近況報告"
 ---
 
 そういえば、9月19日が僕の誕生日だったわけです。ゆかりんと同い年になったのです。

@@ -3,14 +3,10 @@ title: "mod_mruby on FreeBSD"
 date: 2013-02-17T18:31:00+09:00
 slug: "mod_mruby-on-freebsd"
 categories:
-  - slug: "freebsd"
-    label: "FreeBSD"
-  - slug: "programming"
-    label: "Programming"
+  - "FreeBSD"
+  - "Programming"
 post_tags:
-  - slug: "mod_mruby"
-    label: "mod_mruby"
----
+  - "mod_mruby"
 ---
 
 [mod_mrubyをFreeBSDで動かそうとして詰まる](/2012/12/mod_mruby%e3%82%92freebsd%e3%81%a7%e5%8b%95%e3%81%8b%e3%81%9d%e3%81%86%e3%81%a8%e3%81%97%e3%81%a6%e8%a9%b0%e3%81%be%e3%82%8b/)の修正点が変わってしまったのと、mod_mrubyが更新されてEvent MPMとWorker MPMでも動くようになったようなので再チャレンジしてみました。

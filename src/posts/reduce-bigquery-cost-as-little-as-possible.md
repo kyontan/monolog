@@ -3,16 +3,11 @@ title: "コストを掛けずにBigQueryを使い倒す会"
 date: 2019-07-29T12:59:00+09:00
 slug: "reduce-bigquery-cost-as-little-as-possible"
 categories:
-  - slug: "software"
-    label: "Software"
+  - "Software"
 post_tags:
-  - slug: "bigquery"
-    label: "BigQuery"
-  - slug: "gcp"
-    label: "GCP"
-  - slug: "クラウド"
-    label: "クラウド"
----
+  - "BigQuery"
+  - "GCP"
+  - "クラウド"
 ---
 
 BigQueryを使い倒す会代表のkyontanです．今回は実用性低めな分野で BigQuery を1万倍有効活用する方法……ではなく延々とBigQueryがお得だという話をします．

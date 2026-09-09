@@ -3,12 +3,9 @@ title: "就活の技法 / 統括 2020"
 date: 2020-12-24T00:00:00+09:00
 slug: "jobhunting-technique"
 categories:
-  - slug: "お役立ち情報"
-    label: "お役立ち情報"
+  - "お役立ち情報"
 post_tags:
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
----
+  - "whywaita Advent Calendar"
 ---
 
 この記事は [whywaita Advent Calendar 2020](https://adventar.org/calendars/5082) 24日目の記事です。無事今年の木曜日シリーズも終えることができてホッとしています。去年のことは忘れましょう。

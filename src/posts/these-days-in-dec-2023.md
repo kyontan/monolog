@@ -3,14 +3,10 @@ title: "2023年12月あたりの今日このごろ"
 date: 2023-12-29T23:59:00+09:00
 slug: "these-days-in-dec-2023"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "登山"
-    label: "登山"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "登山"
+  - "近況報告"
 ---
 
 意外としていない近況報告

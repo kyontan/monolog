@@ -3,16 +3,11 @@ title: "文脈と情報の伝え方、そしてWikiの雑感"
 date: 2017-06-07T02:12:00+09:00
 slug: "how-to-tell-information-how-we-use-wiki"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "advent-calendar"
-    label: "Advent Calendar"
-  - slug: "wiki"
-    label: "Wiki"
-  - slug: "思考"
-    label: "思考"
----
+  - "Advent Calendar"
+  - "Wiki"
+  - "思考"
 ---
 
 ## TL; DR

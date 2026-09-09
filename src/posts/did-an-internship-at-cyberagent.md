@@ -3,18 +3,12 @@ title: "サイバーエージェントのインターンに行った"
 date: 2016-10-25T19:52:00+09:00
 slug: "did-an-internship-at-cyberagent"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "cyberagent"
-    label: "CyberAgent"
-  - slug: "sdn"
-    label: "SDN"
-  - slug: "インターン"
-    label: "インターン"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "CyberAgent"
+  - "SDN"
+  - "インターン"
+  - "参加しました"
 ---
 
 1ヶ月近く経ってしまいましたが、書くぞという気持ちがあるので書きます。

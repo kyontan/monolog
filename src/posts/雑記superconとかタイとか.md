@@ -3,18 +3,12 @@ title: "雑記(Superconとかタイとか)"
 date: 2012-08-27T22:25:00+09:00
 slug: "雑記superconとかタイとか"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "supercon"
-    label: "Supercon"
-  - slug: "タイ"
-    label: "タイ"
-  - slug: "プログラミングコンテスト"
-    label: "プログラミングコンテスト"
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "Supercon"
+  - "タイ"
+  - "プログラミングコンテスト"
+  - "近況報告"
 ---
 
 タイに行ってきたり、Supercon本選で心が折れたりと充実した日々を送っております。

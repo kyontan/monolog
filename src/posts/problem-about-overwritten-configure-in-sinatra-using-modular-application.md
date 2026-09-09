@@ -3,14 +3,10 @@ title: "Sinatra Modular-Application で configure が上書きされる問題の
 date: 2016-03-16T05:35:00+09:00
 slug: "problem-about-overwritten-configure-in-sinatra-using-modular-application"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "ruby"
-    label: "Ruby"
-  - slug: "sinatra"
-    label: "sinatra"
----
+  - "Ruby"
+  - "sinatra"
 ---
 
 Ruby の [Siantra](http://www.sinatrarb.com/) で、Modular-Application を書いていたら良く分からない挙動にぶち当たって気が付いたら朝になっていたのでメモ。

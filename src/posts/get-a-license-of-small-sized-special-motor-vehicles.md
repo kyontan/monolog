@@ -3,14 +3,10 @@ title: "小型特殊自動車運転免許を取得した"
 date: 2015-08-04T03:00:00+09:00
 slug: "get-a-license-of-small-sized-special-motor-vehicles"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "小型特殊自動車免許"
-    label: "小型特殊自動車免許"
-  - slug: "運転免許"
-    label: "運転免許"
----
+  - "小型特殊自動車免許"
+  - "運転免許"
 ---
 
 「運転免許証」「資格」というキーワードを見ると、即座に「フルビット」という単語が思い浮かんでしまうのが資格好きの困ったところです。

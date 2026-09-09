@@ -3,16 +3,11 @@ title: "CoreOS で Docker Swarm クラスタを作ってみた"
 date: 2017-12-10T00:00:00+09:00
 slug: "building-docker-swarm-cluster-on-coreos"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
+  - "Infrastructure"
 post_tags:
-  - slug: "coreos"
-    label: "CoreOS"
-  - slug: "docker"
-    label: "Docker"
-  - slug: "whywaita-advent-calendar"
-    label: "whywaita Advent Calendar"
----
+  - "CoreOS"
+  - "Docker"
+  - "whywaita Advent Calendar"
 ---
 
 こんばんは。kyontanです。JobHunting 活動は順調ではないので頭を抱えています。

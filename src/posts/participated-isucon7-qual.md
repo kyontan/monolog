@@ -3,18 +3,12 @@ title: "ISUCON7 予選に参加しました"
 date: 2017-10-23T02:29:00+09:00
 slug: "participated-isucon7-qual"
 categories:
-  - slug: "infrastructure"
-    label: "Infrastructure"
-  - slug: "programming"
-    label: "Programming"
+  - "Infrastructure"
+  - "Programming"
 post_tags:
-  - slug: "isucon"
-    label: "ISUCON"
-  - slug: "コンテスト"
-    label: "コンテスト"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "ISUCON"
+  - "コンテスト"
+  - "参加しました"
 ---
 
 チーム「まだチーム名で消耗してるの?」で同期3人 (自分 @kyontan, @hogas, @h-otter) 初参加で2日目でした。学生枠突破ならずでした。

@@ -3,12 +3,9 @@ title: "2018年3月あたりの今日このごろ"
 date: 2018-03-18T00:37:00+09:00
 slug: "these-days-in-mar-2018"
 categories:
-  - slug: "雑記"
-    label: "雑記"
+  - "雑記"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 こんばんは。

@@ -3,16 +3,11 @@ title: "SECCON 2016 Online CTF に参加しました (Write-up)"
 date: 2016-12-11T15:36:00+09:00
 slug: "seccon-2016-online-ctf-write-up"
 categories:
-  - slug: "programming"
-    label: "Programming"
+  - "Programming"
 post_tags:
-  - slug: "ctf"
-    label: "CTF"
-  - slug: "mma"
-    label: "MMA"
-  - slug: "参加しました"
-    label: "参加しました"
----
+  - "CTF"
+  - "MMA"
+  - "参加しました"
 ---
 
 なんか直前に参加しない? と誘われたので今年もYouTube問題担当として参加しました。Team MMA で 700 Points, Rank: 107 (国内: 27) だったっぽいです。(暫定?)

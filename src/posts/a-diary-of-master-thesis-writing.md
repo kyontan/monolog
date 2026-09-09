@@ -3,14 +3,10 @@ title: "修論執筆だいありー"
 date: 2021-02-03T02:35:00+09:00
 slug: "a-diary-of-master-thesis-writing"
 categories:
-  - slug: "お役立ち情報"
-    label: "お役立ち情報"
-  - slug: "生活"
-    label: "生活"
+  - "お役立ち情報"
+  - "生活"
 post_tags:
-  - slug: "近況報告"
-    label: "近況報告"
----
+  - "近況報告"
 ---
 
 2021年初ブログ投稿．
