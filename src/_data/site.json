@@ -27,7 +27,7 @@
           {
             "_type": "span",
             "_key": "about1s1",
-            "text": "Name: きょんたん (kyontan)"
+            "text": "Name: kyontan"
           }
         ]
       },
@@ -39,7 +39,7 @@
           {
             "_type": "span",
             "_key": "about2s1",
-            "text": "Current: ソフトウェアエンジニア (2023/12時点)"
+            "text": "Current: ソフトウェアエンジニア (2026/9時点)"
           }
         ]
       },
@@ -110,7 +110,7 @@
           {
             "_type": "span",
             "_key": "about5s1",
-            "text": "Twitter: "
+            "text": "X: "
           },
           {
             "_type": "span",
