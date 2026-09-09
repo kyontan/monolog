@@ -9,8 +9,8 @@ backend:
   repo: kyontan/monolog
   branch: main
 
-# Prevent Decap from publishing directly; use editorial workflow PRs.
-publish_mode: editorial_workflow
+# Simple mode: no draft/in-review states, saving publishes immediately.
+# (Default; editorial_workflow intentionally not used.)
 # Images upload to R2 via monolog-uploader (see /uploader, static/admin/r2-library.js).
 media_library:
   name: r2
