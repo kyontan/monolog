@@ -1,8 +1,10 @@
-/* R2 media library for Decap CMS: uploads via monolog-uploader Worker.
+/* R2 media library for Decap CMS: uploads/browser via monolog-uploader Worker.
  * Registered as `r2` (see static/admin/index.html, config.yml media_library).
  * Auth: reuses the Decap GitHub session token; the Worker admits only the owner.
  */
 (function () {
+  var ENDPOINT = "";
+
   function sessionToken() {
     try {
       const raw = window.localStorage.getItem("decap-cms-user");
@@ -13,10 +15,19 @@
     }
   }
 
-  async function uploadOne(endpoint, token, file) {
+  async function api(path, token, opts) {
+    const res = await fetch(ENDPOINT + path, {
+      ...(opts || {}),
+      headers: { Authorization: "Bearer " + token, ...(opts && opts.headers) },
+    });
+    if (!res.ok) throw new Error("r2 api failed: " + res.status);
+    return res.json();
+  }
+
+  async function uploadOne(token, file) {
     const form = new FormData();
     form.append("file", file, file.name);
-    const res = await fetch(endpoint + "/upload", {
+    const res = await fetch(ENDPOINT + "/upload", {
       method: "POST",
       headers: { Authorization: "Bearer " + token },
       body: form,
@@ -38,21 +49,78 @@
     });
   }
 
+  function openBrowser(token, onInsert) {
+    var overlay = document.createElement("div");
+    overlay.style.cssText =
+      "position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:9999;display:flex;align-items:center;justify-content:center;";
+    var panel = document.createElement("div");
+    panel.style.cssText =
+      "background:#fff;max-width:800px;width:90%;max-height:80%;overflow:auto;padding:16px;border-radius:4px;";
+    var bar = document.createElement("div");
+    bar.style.cssText = "display:flex;gap:8px;align-items:center;";
+    var upload = document.createElement("button");
+    upload.textContent = "Upload";
+    upload.onclick = async () => {
+      const files = await pickFiles(true);
+      for (const file of files) {
+        try {
+          onInsert(await uploadOne(token, file));
+        } catch (e) {
+          alert("Upload failed: " + file.name);
+        }
+      }
+      refresh();
+    };
+    var close = document.createElement("button");
+    close.textContent = "Close";
+    close.onclick = () => overlay.remove();
+    bar.appendChild(upload);
+    bar.appendChild(close);
+    var grid = document.createElement("div");
+    grid.style.cssText = "display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px;margin:12px 0;";
+    panel.appendChild(bar);
+    panel.appendChild(grid);
+    overlay.appendChild(panel);
+    document.body.appendChild(overlay);
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) overlay.remove();
+    });
+    function refresh() {
+      grid.innerHTML = "";
+      api("/list?limit=200", token).then(
+        (data) => {
+          (data.files || []).reverse().forEach((f) => {
+            var img = document.createElement("img");
+            img.src = f.url;
+            img.title = f.key;
+            img.style.cssText = "width:100%;height:100px;object-fit:cover;cursor:pointer;";
+            img.onclick = () => {
+              onInsert(f.url);
+              overlay.remove();
+            };
+            grid.appendChild(img);
+          });
+          if (!grid.children.length) grid.textContent = "No images yet. Upload from the editor.";
+        },
+        () => {
+          grid.textContent = "Failed to list images.";
+        },
+      );
+    }
+    refresh();
+  }
+
   async function init({ options = {}, handleInsert } = {}) {
-    const endpoint = (options.endpoint || "").replace(/\/+$/, "");
-    if (!endpoint) throw new Error("r2 media library: options.endpoint is required");
+    // config.yml media_library.config.endpoint (uploadcare-style nesting).
+    ENDPOINT = (((options || {}).config || {}).endpoint || options.endpoint || "").replace(/\/+$/, "");
+    if (!ENDPOINT) throw new Error("r2 media library: options.endpoint is required");
     return {
-      show: async ({ allowMultiple } = {}) => {
+      show: async () => {
         const token = sessionToken();
         if (!token) throw new Error("Not logged in (no GitHub session)");
-        const files = await pickFiles(allowMultiple);
-        if (!files.length) return;
-        const urls = [];
-        for (const file of files) urls.push(await uploadOne(endpoint, token, file));
-        handleInsert(urls.length === 1 ? urls[0] : urls);
+        openBrowser(token, handleInsert);
       },
-      // No standalone browser: uploads happen from the editor only.
-      enableStandalone: () => false,
+      enableStandalone: () => true,
     };
   }
 

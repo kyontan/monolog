@@ -48,16 +48,36 @@ export default {
 	async fetch(req: Request, env: Env): Promise<Response> {
 		const headers = { "Content-Type": "application/json", ...cors(env, req) };
 		if (req.method === "OPTIONS") return new Response(null, { status: 204, headers });
-		if (new URL(req.url).pathname === "/") {
+		const url = new URL(req.url);
+		if (url.pathname === "/") {
 			return Response.json({ ok: true }, { headers });
 		}
-		if (new URL(req.url).pathname !== "/upload" || req.method !== "POST") {
-			return Response.json({ error: "not found" }, { status: 404, headers });
+
+		if (!(await authed(req, env))) {
+			return Response.json({ error: "forbidden" }, { status: 403, headers });
 		}
 
-		const token = (req.headers.get("Authorization") ?? "").replace(/^Bearer\s+/i, "");
-		if (!token || ((await ownerLogin(token)) ?? "") !== env.ALLOWED_GITHUB_USER) {
-			return Response.json({ error: "forbidden" }, { status: 403, headers });
+		// GET /list?prefix=2026/&limit=100 -> { files: [{ key, url }] }
+		if (url.pathname === "/list" && req.method === "GET") {
+			const prefix = url.searchParams.get("prefix") ?? undefined;
+			const limit = Math.min(
+				1000,
+				Math.max(1, Number(url.searchParams.get("limit")) || 100),
+			);
+			const listed = await env.MEDIA.list({ prefix, limit });
+			return Response.json(
+				{
+					files: listed.objects.map((o) => ({
+						key: o.key,
+						url: `${env.PUBLIC_BASE_URL}/${o.key}`,
+					})),
+				},
+				{ headers },
+			);
+		}
+
+		if (url.pathname !== "/upload" || req.method !== "POST") {
+			return Response.json({ error: "not found" }, { status: 404, headers });
 		}
 
 		const form = await req.formData();
@@ -81,3 +101,8 @@ export default {
 		return Response.json({ url: `${env.PUBLIC_BASE_URL}/${key}` }, { headers });
 	},
 };
+
+async function authed(req: Request, env: Env): Promise<boolean> {
+	const token = (req.headers.get("Authorization") ?? "").replace(/^Bearer\s+/i, "");
+	return !!token && ((await ownerLogin(token)) ?? "") === env.ALLOWED_GITHUB_USER;
+}
