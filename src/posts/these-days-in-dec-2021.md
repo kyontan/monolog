@@ -19,7 +19,7 @@ post_tags:
 
 18日目はkyontanさんの[ロードスターを買って9ヶ月](/2021/12/9-months-have-passed-since-i-bought-roadstar/)でした。自作自演。
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_2944.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">特に意味はありませんが近況ということで最近食べた肉寿司の写真です。ついにホンモノの肉寿司を食すことができて嬉しかった。ところでホンモノってなんですか?</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2944.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">特に意味はありませんが近況ということで最近食べた肉寿司の写真です。ついにホンモノの肉寿司を食すことができて嬉しかった。ところでホンモノってなんですか?</figcaption></figure>
 
 <span id="more-these-days-in-dec-2021"></span>
 
@@ -55,7 +55,7 @@ post_tags:
 
 ### 仕事
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_14B1D2FC42D7-1.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">友達100人できた。Envoyのことは良くわかっていません</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_14B1D2FC42D7-1.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">友達100人できた。Envoyのことは良くわかっていません</figcaption></figure>
 
 [10月の近況](/2021/10/these-days-in-oct-2021/)を読み返したところ、思ったより真面目に仕事のことが書いてあってビックリしました。
 

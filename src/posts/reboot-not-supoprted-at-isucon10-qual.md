@@ -30,7 +30,7 @@ post_tags:
 
 2:00: この段階で重大な伏線を仕掛けており、MySQL 8.x での追加機能に触れています。
 
-<figure class="gallery-item"><img src="https://media.monora.me/f9a6d0fa5754f2e881e11f72578b545a.png" alt="" loading="lazy"><figcaption class="gallery-caption">本番に思い出されることはなかった降順インデックス</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/f9a6d0fa5754f2e881e11f72578b545a.png" alt="" loading="lazy"><figcaption class="gallery-caption">本番に思い出されることはなかった降順インデックス</figcaption></figure>
 
 ついでに、勝手に MySQL 8.x が来ると確信したので、クエリキャッシュ系のコンフィグをテンプレからコメントアウトします。伏線は張れるだけ張る。
 
@@ -44,7 +44,7 @@ featureの検索高速化したいね〜などと議論しつつ、各featureを
 
 なお、お題の推測は外す。
 
-![](https://media.monora.me/4d702012116dcb8d1a1ccf0590c4bf0e.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/4d702012116dcb8d1a1ccf0590c4bf0e.png)
 
 13:00: 初期スコア 471 を確認。MySQL のスローログ入れたり基本的なチューニングとか nginx の静的ファイルキャッシュとかする。なおクエリキャッシュはコメントアウトされていたのでそのまま忘れ去った。
 
@@ -65,14 +65,14 @@ featureの検索高速化したいね〜などと議論しつつ、各featureを
 16:13: とりあえずDBとappを分けて2台構成に。インデックスとかもいい感じにやる (降順インデックスなどは気付いていない)。スコアは 1345
 この時点で2位に躍り出る。記念にスクショ
 
-![](https://media.monora.me/01c7b75546af9321f5d791796341a4ea.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/01c7b75546af9321f5d791796341a4ea.png)
 
 16:35: トップページに表示する最安の物件/イス20件をオンメモリキャッシュするが大して変わらず。
 
 16:40ごろ: 3台目で Visual Code Remote Development + Live Sharing したらまた応答が返ってこなくなり2度目の解散。(18:00ごろに返ってきたらしい) 2台目に移る。ついでにポータルも繋がらなくなる。
 「『計測するな、推測せよ』ってかｗ」
 
-![](https://media.monora.me/e02ffc9d872f54d94a17298b103a7941.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/e02ffc9d872f54d94a17298b103a7941.png)
 
 17:00: @h-otter がいい感じに chair と estate の  feature 検索の改善を書き始める。寝不足らしく脳死脳死連呼しながらもテストコードを書きながら直してて偉い。これがTDDってやつね。
 この実装はオンメモリ実装とDBのクエリでやる実装の2種類を考えていて、僕はDBを使った実装を書いていたがinitializeがかなり遅くなってしまった && @h-otter のオンメモリ実装が先に終わったこと (かつそちらの方が早くなりそう) もあり、そちらを採用。

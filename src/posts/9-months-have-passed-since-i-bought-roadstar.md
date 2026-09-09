@@ -88,7 +88,7 @@ whywaitaさんも1000km以上は助手席に乗っているんじゃないでし
 
 良くわからないけど0円で直りました。ヨシ
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_1637.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">オタクと根室花まる根室店で寿司食いてえ! となって根室まで行った回。本土最東端の納沙布岬にて</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1637.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">オタクと根室花まる根室店で寿司食いてえ! となって根室まで行った回。本土最東端の納沙布岬にて</figcaption></figure>
 
 ## 事象4: 始動時にキュルキュルいう
 
@@ -104,7 +104,7 @@ whywaitaさんも1000km以上は助手席に乗っているんじゃないでし
 
 ここでkyontanの冬ボーナスが消えます。
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_2801.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なぜか九州まで行ったので、伊万里焼の茶碗を買った後に行った、ゾンビランドサガでもおなじみドライブイン鳥。謎の世界観だけどめっちゃ美味かった</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_2801.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">なぜか九州まで行ったので、伊万里焼の茶碗を買った後に行った、ゾンビランドサガでもおなじみドライブイン鳥。謎の世界観だけどめっちゃ美味かった</figcaption></figure>
 
 ## 事象5: 1速や2速の入りが悪い
 
@@ -131,7 +131,7 @@ whywaitaさんも1000km以上は助手席に乗っているんじゃないでし
 そして、生産終了から16年が経過したにも関わらずちゃんと交換パーツが出てくるマツダは本当に素晴らしいですね。
 何かあったとき、ディーラーに持っていけばシュッと交換パーツリストが出てきてちゃんと修理をしてもらえるというのは何にも代えがたい安心感があります。
 
-<figure class="gallery-item"><img src="https://media.monora.me/DSC06374.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">秋の阿蘇は以前も行ったことがありますが、ロードスターで駆け抜けつつ温泉を巡るのは最高の体験でした。また行きたい</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC06374.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">秋の阿蘇は以前も行ったことがありますが、ロードスターで駆け抜けつつ温泉を巡るのは最高の体験でした。また行きたい</figcaption></figure>
 
 なんやかんやと手間のかかる子ではありますが、様々な運命の巡り合わせで自分の手元に来た車、せっかくですし大切に乗っていきたいですね。
 

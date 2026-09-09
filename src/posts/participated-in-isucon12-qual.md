@@ -22,7 +22,7 @@ post_tags:
 言語は Go、最終スコアは**15532点**、[参考スコア](https://isucon.net/archives/56838276.html)を上から数えると**45位**だったようです。悔しい。
 具体的な取り組みは下の方で述べますが、MySQL移行はバグなく完遂し、さてここからチューニングしていくぞ！という感じのところで終わりました。エンジンが掛かるまでの速度が足りなかった。
 
-![](https://media.monora.me/821f8740d91c148254ae8f29eb6f836a.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/821f8740d91c148254ae8f29eb6f836a.jpg)
 
 毎回、運営の皆様にはいくら感謝しても足りませんが、今回も取り組みがいのある問題で楽しかったです。ベンチマーカーも最後まで待ち時間がほぼなく、スコアも安定していたのでとてもストレスフリーでした。ありがとうございました。
 
@@ -62,7 +62,7 @@ GCPプロジェクトが必要らしいので作ったり、サービスアカ�
 
 Cloud Profiler を入れたので眺めました
 
-<figure class="gallery-item"><img src="https://blog.monora.me/wp-content/uploads/2022/07/3aa8c1532fe9417aa4141a1860fd5623-640x251.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">SQLite だね〜という感想。</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/3aa8c1532fe9417aa4141a1860fd5623-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">SQLite だね〜という感想。</figcaption></figure>
 
 ### 12:00
 
@@ -85,7 +85,7 @@ sed で気合でバルクインサートに書き換えましたが遅い。こ�
 for i in `seq 1 100`; do echo $i; mv $i.sql $i.sql.bak; sed -z -e "s/);\n/);\n\n/" -e "s/NULL\n);/NULL\n);\n\n/g" -e "s/);\nINSERT INTO [a-z_]* VALUES/)\n,/g" $i.sql.bak > $i.sql; done
 ```
 
-![](https://blog.monora.me/wp-content/uploads/2022/07/7a8c7f354c775e1cf36854c39890c9ae-640x302.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/7a8c7f354c775e1cf36854c39890c9ae-scaled.jpg)
 
 それなりに早くなりましたが、まだ遅いので tenant の player_score テーブルにおいて、 updated_at が一定以上のレコードを DELETE する作戦に切り替えます。これで10秒程度で POST /initialize が通るようになりました。
 
@@ -106,7 +106,7 @@ DROP TABLE tenant_X.player;
 
 h-otter が competitionRankingHandler の N+1 を潰したようです。
 
-![](https://media.monora.me/e8db1bd829ae516c4856e01202912365.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/e8db1bd829ae516c4856e01202912365.png)
 
 ### 15:50 6336点
 
@@ -120,7 +120,7 @@ ALTER TABLE tenant_X.player_score ADD INDEX (competition_id, player_id, row_num 
 
 マルチテナントのDBをそのまま持ってきたので、tenant_id は無視するようにしました。
 
-![](https://blog.monora.me/wp-content/uploads/2022/07/972569bfa063fe01a93c6e5a51327b27-640x225.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/972569bfa063fe01a93c6e5a51327b27-scaled.jpg)
 
 ### 16:08 7923点
 
@@ -131,7 +131,7 @@ h-otter が `playerHandler` の N+1 を潰したようです。
 
 バルクインサートと、JSONシリアライザの変更(encoding/json → [goccy/go-json](https://github.com/goccy/go-json))をした結果、スコアがやや増加しました。(8269点)
 
-![](https://blog.monora.me/wp-content/uploads/2022/07/d402be907bf0ee74f9251569549ca330-640x175.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/d402be907bf0ee74f9251569549ca330-scaled.jpg)
 
 ### 16:36 10253点
 
@@ -143,7 +143,7 @@ h-otter が `playerHandler` の N+1 を潰したようです。
 
 既存の `tenant_{1..100}` に対してもそれを適用しましたが、スコアとしては特に変化なしでした。
 
-![](https://blog.monora.me/wp-content/uploads/2022/07/69e135768348aefdc430576563a0b8fb-640x188.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/69e135768348aefdc430576563a0b8fb-scaled.jpg)
 
 このあたりでベンチマーカのログから、タイムアウトでユーザーが減ったという表示がなくなり、ようやくISUCON始まったな! という気持ちになります。すでに手遅れ。
 
@@ -151,7 +151,7 @@ h-otter が `playerHandler` の N+1 を潰したようです。
 
 h-otter が jwt のパース結果をキャッシュします。神
 
-![](https://media.monora.me/8b40f5fa7a5b915e094f0c19106aaaf3.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/8b40f5fa7a5b915e094f0c19106aaaf3.jpg)
 
 ### 17:45 14363点
 

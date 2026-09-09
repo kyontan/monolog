@@ -26,7 +26,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![MAXコーヒー(箱)](https://media.monora.me/20130922-010555.jpg)
+![MAXコーヒー(箱)](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-010555.jpg)
 
 
 ……正直びっくりしました……。わーお……
@@ -47,7 +47,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![サドンデスソース](https://media.monora.me/20130922-005918.jpg)
+![サドンデスソース](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-005918.jpg)
 
 
 サドンデスソース。骸骨のキーホルダーが付いてます。
@@ -58,7 +58,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![天狗ビーフジャーキー](https://media.monora.me/20130922-005253.jpg)
+![天狗ビーフジャーキー](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-005253.jpg)
 
 
 リストに入れてたのはこれ。天狗ビーフジャーキー(HOT)
@@ -67,7 +67,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![アイマス2, G4U Vol.2](https://media.monora.me/20130922-005511.jpg)
+![アイマス2, G4U Vol.2](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-005511.jpg)
 
 
 そして一緒にアイマス2(右側)も送られてきたという! これは嬉しいですね。
@@ -78,7 +78,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![20130922-005547.jpg](https://media.monora.me/20130922-005547.jpg)
+![20130922-005547.jpg](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-005547.jpg)
 
 
 さすがに開けた時に真顔になったのはこれっきりですね。
@@ -87,7 +87,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![20130922-012430.jpg](https://media.monora.me/20130922-012430.jpg)
+![20130922-012430.jpg](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-012430.jpg)
 
 
 キムワイプとチェリーコークです。缶で12本だとこうやって横に長いパッケージになるんですね。
@@ -104,7 +104,7 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![抹茶そば, 宇治抹茶、 茶筅](https://media.monora.me/20130922-005158.jpg)
+![抹茶そば, 宇治抹茶、 茶筅](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-005158.jpg)
 
 
 茶そばと宇治抹茶, 茶筅（茶せん)です。 [@nullpogemuta](https://twitter.com/nullpogemuta) さんより頂きましたっ
@@ -129,4 +129,4 @@ https://twitter.com/sukukyon/status/373829881567535105
 
 
 
-![誕生日プレゼントとして届いたもの。](https://media.monora.me/20130922-004930.jpg)
+![誕生日プレゼントとして届いたもの。](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/20130922-004930.jpg)

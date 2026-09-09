@@ -30,7 +30,7 @@ RSpec を書いてテストの重要性を感じながら七夕に笹の葉ラ�
 [GitHub kyontan/assets2slack
 ](https://github.com/kyontan/assets2slack)雑に `docker-compose run --rm crawler` とかやると共有できて便利です。
 
-![assets2slack demo](https://media.monora.me/2017-07-09-23.png)
+![assets2slack demo](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/2017-07-09-23.png)
 
 おそらく最近のアプリケーションなので `docker-compose.yml` が置いてあります。ポジショントーク?じゃないですが、こういう環境作りが面倒くさいアプリケーションの共有には向いていると思います。
 1コンテナにまとめたかったのですが、少し面倒くさそうだったので投げました。PRお待ちしています。

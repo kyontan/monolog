@@ -80,7 +80,7 @@ post_tags:
 
 - でも後半の国道一号(現道)と重なるあたりはつらかった……
 
-![](https://media.monora.me/image.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image.jpg)
 
 #### 三ツ峠
 
@@ -94,7 +94,7 @@ post_tags:
 
 - 来年は足を伸ばして丹沢山と蛭ヶ岳も行きたいところ
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-23-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">こんな尾根が神奈川県にあるなんて</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-23-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">こんな尾根が神奈川県にあるなんて</figcaption></figure>
 
 #### 大菩薩嶺
 
@@ -102,7 +102,7 @@ post_tags:
 
 - 眺めが良くて富士山が最高でございました
 
-![](https://media.monora.me/01M1ZWPKPTQ809ZN86C02EQ0JE-image-1.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/01M1ZWPKPTQ809ZN86C02EQ0JE-image-1.jpg)
 
 #### 筑波山
 
@@ -122,9 +122,9 @@ post_tags:
 
   - これを機に八ヶ岳周辺の山には何度も登ることになりました
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-2-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">友人、写真上手すぎないか?</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-2-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">友人、写真上手すぎないか?</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-3-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">雲上の湯の呼び名は伊達ではない</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-3-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">雲上の湯の呼び名は伊達ではない</figcaption></figure>
 
 #### [鳳凰山 (鳳凰三山)](https://yamap.com/activities/25523317)
 
@@ -138,7 +138,7 @@ post_tags:
 
   - 来年は北岳を目指します
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-5-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">2023年のベストショットです</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-5-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">2023年のベストショットです</figcaption></figure>
 
 #### 蓼科山 / 霧ヶ峰 / 美ヶ原
 
@@ -150,7 +150,7 @@ post_tags:
 
 - 蓼科山の無限に同じ風景続く登りつらかった……! があまりにも眺めが良かったので許しました
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-7.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">美ヶ原高原のRPGみたいな光景はかなりウケました</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-7.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">美ヶ原高原のRPGみたいな光景はかなりウケました</figcaption></figure>
 
 #### [木曽駒ヶ岳](https://yamap.com/activities/26186912)
 
@@ -162,7 +162,7 @@ post_tags:
 
 - 中央アルプスも楽しいね
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-8.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">千畳敷カール。こんなに眺めが良くていいんですか?</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-8.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">千畳敷カール。こんなに眺めが良くていいんですか?</figcaption></figure>
 
 #### [西穂高岳](https://yamap.com/activities/26389033)
 
@@ -172,7 +172,7 @@ post_tags:
 
 - 帰りは西穂丸山あたりからかなり雨だった記憶。今年は意外とここと次の横岳でしか降られてないらしいことに今気づきました。
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-9.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">かなり崖</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-9.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">かなり崖</figcaption></figure>
 
 #### 横岳
 
@@ -184,7 +184,7 @@ post_tags:
 
 - 帰りの車の中でも障害対応やってたような記憶があるな……なんでだろうな……
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-10-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">1日目、小屋に着いたその瞬間に一瞬見えた赤岳。来年は行きたい</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-10-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">1日目、小屋に着いたその瞬間に一瞬見えた赤岳。来年は行きたい</figcaption></figure>
 
 #### [水平歩道 / 下ノ廊下](https://yamap.com/activities/27346602)
 
@@ -204,13 +204,13 @@ post_tags:
 
 - 寿命は縮んだ気がします
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-19-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">水平歩道が水平歩道であることが良く分かるポイント</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-19-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">水平歩道が水平歩道であることが良く分かるポイント</figcaption></figure>
 
-![](https://media.monora.me/image-16-scaled.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-16-scaled.jpg)
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-18.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">阿曽原温泉、また行きたい</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-18.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">阿曽原温泉、また行きたい</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-15-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">冗談抜きでだいたいこんな感じの道でした</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-15-scaled.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">冗談抜きでだいたいこんな感じの道でした</figcaption></figure>
 
 #### [奥大日岳](https://yamap.com/activities/27537622)
 
@@ -222,9 +222,9 @@ post_tags:
 
   - やはり室堂からだと眼前に広がる立山が人を惹きつけてしまうのだろうか
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-11.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">せっかくなので行ったことのない浄土山に行こうとしたが登山口で力尽きる友人</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-11.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">せっかくなので行ったことのない浄土山に行こうとしたが登山口で力尽きる友人</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-12-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">後ろに見えるあの山綺麗だな〜来年登ってみたいな〜</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-12-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">後ろに見えるあの山綺麗だな〜来年登ってみたいな〜</figcaption></figure>
 
 (力尽きた写真はフリです)
 
@@ -244,7 +244,7 @@ post_tags:
 
 - 登った感想、やっぱりこれが百名山に入ってないのは百名山のバグです
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-13.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">山頂はうっすら雪に覆われていて霧氷も見れました。やったね</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-13.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">山頂はうっすら雪に覆われていて霧氷も見れました。やったね</figcaption></figure>
 
 #### 金時山 / 明神ヶ岳
 
@@ -252,7 +252,7 @@ post_tags:
 
 - こんな地元にこんな眺めが良い山があるなんて聞いてないですわよ
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-14-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">箱根の外輪山の外輪っぷりがよく分かる1枚</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-14-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">箱根の外輪山の外輪っぷりがよく分かる1枚</figcaption></figure>
 
 こうして振り返るとなかなかに山だらけな1年だった気がします。来年は剣と槍という話もありますが、さてどうなることやら。
 
@@ -269,7 +269,7 @@ post_tags:
 
   - なんと行った日が今年のオープン日だった文句なしで露天風呂が最高飯もうまい1位
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-22-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">オープン初日</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-22-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">オープン初日</figcaption></figure>
 
 - 福島県 木賊温泉 共同浴場 岩風呂
 
@@ -387,7 +387,7 @@ post_tags:
 
   - ケーブルカーに乗れ
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-21-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">浴槽は遥か下</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-21-edited.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">浴槽は遥か下</figcaption></figure>
 
 - 大分県 長湯温泉 水神之森
 
@@ -395,7 +395,7 @@ post_tags:
 
   - とにかくパワーが強い、長湯に行くならここも行け1位
 
-<figure class="gallery-item"><img src="https://media.monora.me/image-20.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">見てくださいこの膜</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/image-20.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">見てくださいこの膜</figcaption></figure>
 
 - 大分県 寒の地獄旅館
 

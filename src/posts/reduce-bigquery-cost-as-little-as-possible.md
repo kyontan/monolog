@@ -19,9 +19,9 @@ BigQueryを使い倒す会代表のkyontanです．今回は実用性低めな�
 
 今回ご紹介するテクニックを意味不明に活用することで，18.2GBのスキャン(10円程度)で2301億行の一時テーブルを作って集計することが可能です．便利ですね．ちなみに私は12桁の数字を突然見て混乱しました．
 
-![COUNT(*)の結果が2301億](https://media.monora.me/7dca5e409a05c8a1ea90b6f89f7c4faf-e1564329514637.png)
+![COUNT(*)の結果が2301億](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/7dca5e409a05c8a1ea90b6f89f7c4faf-e1564329514637.png)
 
-![](https://media.monora.me/14d693efa05e32c70acacecaf6706a80.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/14d693efa05e32c70acacecaf6706a80.png)
 
 ちなみに上のクエリは37.5秒で帰ってきましたが，内部では4時間52分のCPU時間を使用したようです．つまり，単純に計算すると約500スレッドが並列して走っていたようです．すごいですね……
 
@@ -35,14 +35,14 @@ BigQueryを使い倒す会代表のkyontanです．今回は実用性低めな�
 
 
 
-![](https://media.monora.me/06326d4c16567d6215d323c7afc1aa92-e1564331898694.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/06326d4c16567d6215d323c7afc1aa92-e1564331898694.png)
 
 
 並列度が高いクエリだと1週間どころか2週間を超えるCPU時間を1発のクエリで使うこともあります．
 
 
 
-![](https://media.monora.me/8680914b30d23c9f60197478dce82e40-e1564331854334.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/8680914b30d23c9f60197478dce82e40-e1564331854334.png)
 
 さて，BigQueryのコストはスキャンするデータ量に依存します．そのため，一般的なログ分析基盤でコスト削減のためにスキャンする列を減らしたり，時系列でパーティショニングして必要な分だけスキャンする手法が取られますが，こういった話はありふれているので割愛します．
 
@@ -56,23 +56,23 @@ BigQueryは10MB以下しかスキャンしなかった場合には，10MBへ切�
 
 
 
-![](https://media.monora.me/cacac853e2084a9061d9193aeb077b5c.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/cacac853e2084a9061d9193aeb077b5c.png)
 
 
 一方で，複雑なクエリを叩くと実際長い時間がかかることがあります．このとき，BigQueryではクエリのタイムアウトが6時間と定められているため，これを超えるとクエリが強制終了させられます．
 
 
 
-![](https://media.monora.me/5e5ec728f22e4641f818efb8aadcd2a3.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/5e5ec728f22e4641f818efb8aadcd2a3.png)
 
 他にも雑に `PARTITION BY`を使ってパーティションを切りつつ内部でソートを掛けているとメモリを食いすぎて死んでしまったり
 
-![](https://media.monora.me/aedba02500b4f4c0690d5d273befdac9.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/aedba02500b4f4c0690d5d273befdac9.png)
 
 (意訳ですが)予想された時間を大幅に超えたのでとりあえず止めました，みたいなエラーが出たりします．
 これは未だに納得がいってない．6時間動かしてから言って欲しい．
 
-![](https://media.monora.me/f3b02d19c3d3ab6643f83ae9d2ecaf71.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/f3b02d19c3d3ab6643f83ae9d2ecaf71.png)
 
 
  
@@ -154,24 +154,24 @@ BigQueryはスキャン量に応じて課金されると書きました．つま
 
 というわけでこういうことができます．
 
-![](https://media.monora.me/756dad170ef7b033f0c498f67985b938.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/756dad170ef7b033f0c498f67985b938.png)
 
 
 無限のリソースがあったら何をしますか? とりあえず面倒になったのでモンテカルロ法で円周率でも計算しましょう．
 
-![](https://media.monora.me/329f09089ef22723a5f246ba4ffa6c59.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/329f09089ef22723a5f246ba4ffa6c59.png)
 
 とりあえずできましたが精度が低い……
 
 
 
-![](https://media.monora.me/54a43dabb44677b153de8eebc7c997a5.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/54a43dabb44677b153de8eebc7c997a5.png)
 
 ﾇｯ
 
 
 
-![](https://media.monora.me/fa961c9f1c76cbd06a1180add91eaeeb.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/fa961c9f1c76cbd06a1180add91eaeeb.png)
 
 こういうことをしたら終わらなくなってしまったので終わりです．(朝見たらタイムアウトしてました)
 ちなみにBigQueryはJavaScriptでUDFを書くことができますが，これはこれでタイムアウトやスロット数が別にあり色々大変です．頑張りましょう．

@@ -413,7 +413,7 @@ post_tags:
 
 実はあれから半年後、コミックマーケット98 (C98)で本を出す予定でした。[Webカタログにも載ってます](https://webcatalog-free.circle.ms/Circle/15132514)。 (このURLはもう少ししたらアクセスできなくなりそうですが)
 
-![](https://media.monora.me/f496a48fce720d2cf504f0736c8917c4.png)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/f496a48fce720d2cf504f0736c8917c4.png)
 
 春コミなんて珍しいしサークル参加してみるか、と思い立ったは良いですが、ご存知のようにコロナ禍の影響で[C98は幻になりました](https://www.comiket.co.jp/info-a/C98/C98Covid19Notice2.html)。
 

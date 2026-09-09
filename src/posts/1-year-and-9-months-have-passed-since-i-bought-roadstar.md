@@ -24,7 +24,7 @@ post_tags:
 
 前回は [ロードスターを買って9ヶ月](/2021/12/9-months-have-passed-since-i-bought-roadstar/) でしたが、あれから1年経ってどうだったのか、いくら掛かったのか、問題は見つかったのかなどをお届けしようと思います。
 
-<figure class="gallery-item"><img src="https://media.monora.me/DSC08441.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">宗谷岬にて</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/DSC08441.jpg" alt="" loading="lazy"><figcaption class="gallery-caption">宗谷岬にて</figcaption></figure>
 
 ### 去年のあらすじ
 

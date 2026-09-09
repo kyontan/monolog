@@ -26,7 +26,7 @@ Apple Storeに行く前に 言っておくッ! おれは今 やつの早さを �
 
 [caption id="attachment_308" align="alignnone" width="320"]
 
-![MBA ディスプレイ交換前](https://media.monora.me/IMG_1112.jpg)
+![MBA ディスプレイ交換前](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1112.jpg)
 
  MacBook Airのディスプレイを交換する前[/caption]
 
@@ -49,7 +49,7 @@ Apple Storeに行く前に 言っておくッ! おれは今 やつの早さを �
 
 [caption id="attachment_309" align="alignnone" width="320"]
 
-![MBA ディスプレイ交換前](https://media.monora.me/IMG_1136.jpg)
+![MBA ディスプレイ交換前](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_1136.jpg)
 
  MacBook Airのディスプレイを交換した後[/caption]
 

@@ -22,10 +22,10 @@ post_tags:
 
 ところで今回もwhywaitaさんは僕にだけ当たりが強い気がするのは気のせいでしょうか。
 
-<figure class="gallery-item"><img src="https://media.monora.me/SCR-20231222-gi5.jpg" alt="Slackにて@kyontan宛に度々Advent Calendarの記事をリマインドされる様子
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/SCR-20231222-gi5.jpg" alt="Slackにて@kyontan宛に度々Advent Calendarの記事をリマインドされる様子
 " loading="lazy"><figcaption class="gallery-caption">10日前からリマインドされる様子</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/SCR-20231222-gfm.png" alt="" loading="lazy"><figcaption class="gallery-caption">草ではない</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/SCR-20231222-gfm.png" alt="" loading="lazy"><figcaption class="gallery-caption">草ではない</figcaption></figure>
 
 <span id="more-waita"></span>
 
@@ -36,15 +36,15 @@ post_tags:
 こちらです。
 
 ![わいた温泉郷 まるわかりマップ
-](https://media.monora.me/IMG_6633.HEIC.jpeg)
+](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6633.HEIC.jpeg)
 
 お分かりでしょうか。
 
 良くわからない方もいると思うので拡大してみます。
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6637.HEIC.jpeg" alt="わいた温泉郷まるわかりマップを拡大した様子。わいたさんと書かれている" loading="lazy"><figcaption class="gallery-caption">わいたさん</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6637.HEIC.jpeg" alt="わいた温泉郷まるわかりマップを拡大した様子。わいたさんと書かれている" loading="lazy"><figcaption class="gallery-caption">わいたさん</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6638.HEIC-edited.jpeg" alt="わいた温泉郷まるわかりマップを拡大した様子。ファームロードWaitaと書かれている" loading="lazy"><figcaption class="gallery-caption">ファームロードWaita</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6638.HEIC-edited.jpeg" alt="わいた温泉郷まるわかりマップを拡大した様子。ファームロードWaitaと書かれている" loading="lazy"><figcaption class="gallery-caption">ファームロードWaita</figcaption></figure>
 
 最近のWordPressって任意の高さのスペーサーが簡単に挟めるんですね。満足しました。
 
@@ -56,11 +56,11 @@ post_tags:
 
 というわけで「わいた」をご堪能ください。
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6635.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた山 (Mt.Waita)</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6635.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた山 (Mt.Waita)</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6642.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた湯けむりマルシェ</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6642.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた湯けむりマルシェ</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6654.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた温泉郷 (Waita Hot Springs)</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6654.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">わいた温泉郷 (Waita Hot Springs)</figcaption></figure>
 
 ……もういいでしょうか。
 
@@ -74,14 +74,14 @@ post_tags:
 ここわいた温泉郷にも、そういったコインタイマー式の温泉があり行ってみることにしました。
 行ったのは「はげのゆ温泉 くぬぎ湯」さんです。
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6639.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">いい感じに紅葉してました</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6639.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">いい感じに紅葉してました</figcaption></figure>
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6653.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">なんと24時間年中無休。深夜に来る人はいるんでしょうか……</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6653.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">なんと24時間年中無休。深夜に来る人はいるんでしょうか……</figcaption></figure>
 
 さて入湯していきましょう。
 受付で浴室を選び、1500円 (風呂により違います) を払うと、部屋の鍵と500円玉を3枚を渡されました。それはただの両替では……?
 
-<figure class="gallery-item"><img src="https://media.monora.me/IMG_6646.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">浴室はこんな感じ</figcaption></figure>
+<figure class="gallery-item"><img src="https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6646.HEIC.jpeg" alt="" loading="lazy"><figcaption class="gallery-caption">浴室はこんな感じ</figcaption></figure>
 
 こういった浴室が10棟(室)あり、風呂によって眺望の良さや浴槽の大きさ、檜風呂/岩風呂などの違いがあります。
 
@@ -89,7 +89,7 @@ post_tags:
 
 部屋の入口を振り返るとこんな機械があります。
 
-![](https://media.monora.me/IMG_6647.HEIC-edited.jpeg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/IMG_6647.HEIC-edited.jpeg)
 
 なるほど1500円。というわけで500円玉を投入すると……
 
@@ -97,7 +97,7 @@ post_tags:
 
 いい勢いですね。10分ぐらいでなんか自宅よりでかい浴槽からお湯がだばだばと溢れてました。
 
-![](https://media.monora.me/SCR-20231222-hub.jpeg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/SCR-20231222-hub.jpeg)
 
 泉質とかのメモを忘れていたのであまりそういったコメントはできませんが、結構熱めだった記憶があります。
 また、写真からもわかるように眺めが大変素晴らしく、写ってはいませんが涌蓋山(わいたさん)もよく見えていました。

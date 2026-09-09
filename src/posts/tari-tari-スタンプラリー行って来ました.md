@@ -17,7 +17,7 @@ post_tags:
 
 [caption id="attachment_151" align="alignnone" width="600"]
 
-![](https://media.monora.me/O1072059.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/O1072059.jpg)
 
  今回のスタンプラリーでもらったものとか買ったものとかその他諸々。[/caption]
 
@@ -58,24 +58,24 @@ post_tags:
 
 [caption id="attachment_146" align="alignleft" width="600"]
 
-![スタンプ帳](https://media.monora.me/kC5Pp33O8lxKfQLcs3ZqCW7L6BPcBNu0CLZug0raw0E.jpeg)
+![スタンプ帳](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/kC5Pp33O8lxKfQLcs3ZqCW7L6BPcBNu0CLZug0raw0E.jpeg)
 
  スタンプ帳をもらっていざ！[/caption]
 
 [caption id="attachment_143" align="alignnone" width="600"]
 
-![江ノ島](https://media.monora.me/O1062035.jpg)
+![江ノ島](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/O1062035.jpg)
 
  Let's 江の島！[/caption]
 
 [caption id="attachment_147" align="alignnone" width="450"]
 
-![](https://media.monora.me/O1062038.jpg)
+![](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/O1062038.jpg)
 
  遠回りをしてこんなところを…[/caption]
 
 [caption id="attachment_144" align="alignnone" width="449"]
 
-![江ノ島駅](https://media.monora.me/O1062052_2.jpg)
+![江ノ島駅](https://pub-ceba25df58934fa492f19ecc3b50020e.r2.dev/O1062052_2.jpg)
 
  スタンプラリーでもらえるクリアファイルにもなっている、江の電の江ノ島駅。[/caption]
