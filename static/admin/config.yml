@@ -33,31 +33,13 @@ collections:
       - label: "Categories (slugs derive automatically)"
         name: "categories"
         required: false
-        widget: "relation"
-        collection: "taxonomies"
-        file: "terms"
-        search_fields: ["categories.*"]
-        value_field: "categories.*"
-        multiple: true
+        widget: "list"
+        field: { label: "Category", name: "category", widget: "taxlabel", options_source: "categories" }
       - label: "Tags (slugs derive automatically)"
         name: "post_tags"
         required: false
-        widget: "relation"
-        collection: "taxonomies"
-        file: "terms"
-        search_fields: ["tags.*"]
-        value_field: "tags.*"
-        multiple: true
-      - label: "New categories (one per line, added to candidates on merge)"
-        name: "new_categories"
-        required: false
         widget: "list"
-        field: { label: "Category", name: "category", widget: "string" }
-      - label: "New tags (one per line, added to candidates on merge)"
-        name: "new_tags"
-        required: false
-        widget: "list"
-        field: { label: "Tag", name: "tag", widget: "string" }
+        field: { label: "Tag", name: "tag", widget: "taxlabel", options_source: "tags" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"

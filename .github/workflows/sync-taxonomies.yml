@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - "src/posts/**"
+      - "src/taxonomies.yml"
   workflow_dispatch:
 
 permissions:
@@ -23,12 +24,12 @@ jobs:
           python-version: "3.13"
       - run: python3 scripts/gen-taxonomies.py
       - run: |
-          if git diff --quiet -- src/taxonomies.yml; then
+          if git diff --quiet -- src/taxonomies.yml static/admin/taxonomies.json; then
             echo "no change"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add src/taxonomies.yml
-            git commit -m "Sync taxonomies.yml from posts [skip ci]"
+            git add src/taxonomies.yml static/admin/taxonomies.json
+            git commit -m "Sync taxonomies from posts [skip ci]"
             git push
           fi

@@ -6,16 +6,6 @@ function termsOf(labels) {
   return (labels || []).map((label) => ({ slug: slugify(label), label }));
 }
 
-// Merge relation-picked terms with free-entry new_* terms (dedupe by slug).
-function mergedTerms(data, base, extra) {
-  const seen = new Map();
-  for (const label of [...(data[base] || []), ...(data[extra] || [])]) {
-    const t = typeof label === "string" ? { slug: slugify(label), label } : label;
-    if (!seen.has(t.slug)) seen.set(t.slug, t.label);
-  }
-  return [...seen.entries()].map(([slug, label]) => ({ slug, label }));
-}
-
 function jstParts(iso) {
   const dt = new Date(iso);
   const fmt = new Intl.DateTimeFormat("en-CA", {
@@ -38,8 +28,8 @@ module.exports = {
     },
     year: (data) => jstParts(data.date).year,
     month: (data) => jstParts(data.date).month,
-    categories: (data) => mergedTerms(data, "categories", "new_categories"),
-    post_tags: (data) => mergedTerms(data, "post_tags", "new_tags"),
+    categories: (data) => termsOf(data.categories),
+    post_tags: (data) => termsOf(data.post_tags),
     related: (data) => {
       const slugs = (terms) => (terms || []).map((t) => (typeof t === "string" ? slugify(t) : t.slug));
       const cats = new Set(slugs(data.categories));

@@ -4,6 +4,7 @@
 Usage: python3 scripts/gen-taxonomies.py
 Merges existing entries (keeps hand-added terms) with terms found in posts.
 """
+import json
 import re
 from pathlib import Path
 
@@ -66,5 +67,8 @@ TAX.write_text(
     + "".join(f'  - "{t}"\n' for t in sorted(tags))
     + "",
     encoding="utf-8",
+)
+(ROOT / "static" / "admin" / "taxonomies.json").write_text(
+    json.dumps({"categories": sorted(cats), "tags": sorted(tags)}, ensure_ascii=False), encoding="utf-8"
 )
 print(f"categories={len(cats)} tags={len(tags)} -> {TAX}")
